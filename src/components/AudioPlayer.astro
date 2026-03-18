@@ -10,6 +10,8 @@ const { src } = Astro.props;
   <audio controls class="w-full">
     <source src={src} type="audio/mpeg" />
     Seu navegador não suporta o elemento de áudio.
-    <a href={src} class="text-accent underline">Baixar o áudio</a>
   </audio>
+  <a href={src} download class="text-xs text-accent hover:underline mt-2 inline-block">
+    <i class="fas fa-download mr-1"></i>Baixar o áudio
+  </a>
 </div>
