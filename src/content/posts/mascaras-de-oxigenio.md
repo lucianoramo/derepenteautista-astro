@@ -7,6 +7,52 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/11/image-1.jpg
 description: 'Esses dias estava no avião com meu filho e a comissária de bordo começou
   a dar os avisos: -Em caso d'
+comments:
+- author: Ana Luisa
+  date: 16/11/2016 de 18:33
+  content: Tempo recorde total! Usain Bolt se parece com vc! Te amo!
+  depth: 1
+- author: LEONIDIA
+  date: 16/11/2016 de 18:36
+  content: Muito lindo minha filha! Você é linda por dentro e por fora.Voce é guerreira!O
+    Enzo é feliz e você sempre será seu sol,seu mar,sua lua,seu porto seguro.Te Amo!
+  depth: 1
+- author: Lane Magalhaes
+  date: 16/11/2016 de 18:59
+  content: Michelle,Inicialmente parece uma atitude egoísta, mas quando racionalizamos
+    concluímos que somente podemos ajudar se estivermos “respirando”.Ao longo da caminhada
+    Deus nós presenteia com anjos que nós oferece uma máscara a cada encontro, assim,
+    jamais faltará  máscaras para mães que protegem os filhos  bem como para os filhos
+    ptotegidos.Continue assim, uma fortaleza revestida de ser humano.Um beijo no coração
+  depth: 1
+- author: Flávia Prado
+  date: 16/11/2016 de 20:58
+  content: Olá minha linda, cada dia que eu leio uma história, vejo como é parecida
+    com a minha, desde o início, minha vida é a dele, vivo pra ele ( se chama Arthur),tem
+    4 anos e foi diagnosticado com síndrome de Asperger,não importa, o que importa
+    é tudo que ele me ensina, não me importa o que os outros dizem, vc mima demais
+    esse menino, mimo sim, até onde ele permitir, se mimar for excesso de carinhos
+    e cuidados,faço todos os dias da minha vida, obrigada por você compartilhar sua
+    experiência, obrigada
+  depth: 1
+- author: Flavy Carvalho
+  date: 16/11/2016 de 22:41
+  content: Muito lindo e verdadeiro! Estou precisando de uma máscara para respirar
+    neste exato momento … Perdi o fôlego de emoção ao ler esse post … Tanto orgulho
+    do ser humano que você é! É um privilégio estar nesse avião com você e com o Enzo
+    e não importa quão intensas sejam as turbulências … Sempre saberemos onde encontrar
+    o ar! Em Deus, na nossa família e no amor incondicional que nos une! Te amo irmã!
+    💚
+  depth: 1
+- author: Cláudia
+  date: 18/11/2016 de 09:04
+  content: 'É Michele , viver cada dia um dia não é fácil …pois somos ansioso.E Deus
+    nos diz : Não andeis ansiosos por coisa alguma …não é por uma coisa …Ele diz por
+    coisa alguma . Que a gente consiga seguir esse ensinamento minha querida , hj
+    consigo administrar melhor essa ansiedade , foram 20 anos .Hoje posso agradecer
+    a Deus por me fazer entender que o tempo de Deus é muito diferente do nosso .
+    Fique firme Deus é contigo .'
+  depth: 1
 ---
 
 Esses dias estava no avião com meu filho e a comissária de bordo começou a dar os avisos:  

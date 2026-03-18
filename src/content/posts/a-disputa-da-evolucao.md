@@ -6,6 +6,23 @@ categories:
 author: Michelle Carvalho
 image: /wp-content/uploads/2020/04/athletic-field-1867053_1280.jpg
 description: Quando me tornei mãe, descobri um movimento social materno de uma estranha
+comments:
+- author: Leonidia
+  date: 20/04/2020 de 20:13
+  content: Texto maravilhoso! Parabéns Michelle, você nos enche de orgulho!Estaremos
+    sempre do seu lado.Te amo!
+  depth: 1
+- author: Rafael Mansur
+  date: 21/04/2020 de 10:22
+  content: 'Excelente. É essa a pegada. Tem um livro maravilhoso que recomendo muito:
+    “Na vida 10, na escola 0”. Uma pesquisa sobre o aprendizado de matemática na escola
+    e o uso dos mesmos conceitos no cotidiano extra escolar. Fiquei feliz e me sinto
+    honrado por ter me citado.Abraços'
+  depth: 1
+- author: Tais
+  date: 12/08/2021 de 06:58
+  content: Aí Michele, que texto necessário, obrigada querida!
+  depth: 1
 ---
 
 Quando me tornei mãe, descobri um movimento social materno de uma estranha “competição da evolução”:

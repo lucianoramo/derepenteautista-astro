@@ -7,6 +7,32 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/04/image-1.jpg
 description: A suspeita do diagnóstico de TEA (Transtorno do Espectro Autista) normalmente
   é feita pelos pais ou
+comments:
+- author: Flavy Carvalho
+  date: 08/01/2017 de 12:41
+  content: Fantástico e esclarecedor! Que este post se espalhe e atinja muitas e muitas
+    pessoas! Que Deus continue te abençoando e te usando para levar amor, fé, esperança
+    e conhecimento às pessoas, através da sua vida e do Enzo! Amo muito vocês!
+  depth: 1
+- author: LEONIDIA
+  date: 08/01/2017 de 16:02
+  content: A cada dia mais um aprendizado.Que esse blog possa a chegar em todas as
+    pessoas,todos os pais que se sintam perdidos e sem coragem de enfrentar o diagnóstico.O
+    amor é a melhor arma para vencer todas as batalhas que sabemos não serem fáceis.Que
+    Deus abençoe você minha filha.Te amo!
+  depth: 1
+- author: Fabi
+  date: 10/01/2017 de 10:59
+  content: Mi, excelente! Simples e objetivo, dicas preciosas para mamães e papais.
+    Obrigada!
+  depth: 1
+- author: Cristina Munck
+  date: 26/01/2017 de 18:48
+  content: Percebi o quanto somos leigos sobre o altíssimo. Mas Deus usa vc como mãe
+    tão dedicada e ainda se preocupa em ajudar possíveis famílias que estão ou vão
+    estar passando pelo mesmo problema que vc e sua família estão passando.  Que Deus
+    continue capacitando e abençoado vcs em tudo e sempre . Sou sua fã.
+  depth: 1
 ---
 
 A suspeita do diagnóstico de TEA (Transtorno do Espectro Autista) normalmente é feita pelos pais ou pela escola, a partir da observação de comportamentos atípicos para a idade da criança.  

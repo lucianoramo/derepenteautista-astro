@@ -6,6 +6,88 @@ categories:
 author: Michelle Carvalho
 image: /wp-content/uploads/2016/04/image-2.jpg
 description: Chamo de
+comments:
+- author: Leonidia Lopes
+  date: 12/04/2016 de 07:50
+  content: Muito lindo minha filha!Cada dia te admiro mais. Te amo!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 13/04/2016 de 01:26
+  content: Obrigada mãezinha! Você é um espelho de mulher guerreira para mim! Te amo!
+  depth: 2
+- author: Alexandra Lizardo
+  date: 12/04/2016 de 07:55
+  content: Muito obrigada por cada experiência que. Nos tem relatado nos também vivemos
+    em nosso mundo isoladamente sem perceber muitas das vezes isso. Uma aula em cada
+    Post seu de cultura de amor de dedicação, bjs
+  depth: 1
+- author: MIchelle Carvalho
+  date: 13/04/2016 de 01:27
+  content: Obrigada por nos acompanhar com tanto carinho  Alexandra!
+  depth: 2
+- author: Renata
+  date: 12/04/2016 de 12:54
+  content: Mi, estou muito admirada com o seu o Blog! Parabéns querida… Me emociona
+    de ver o tamanho do amor e dedicação que você tem demonstrado. Deus abençoe vocês
+    sempre prima 😍 Love you
+  depth: 1
+- author: MIchelle Carvalho
+  date: 13/04/2016 de 01:30
+  content: Obrigada Re, Deus tem nos surpreendido a cada dia. O amor só cresce… Saudade.
+    Love you too
+  depth: 2
+- author: Deia Tomaz
+  date: 12/04/2016 de 13:05
+  content: Sensibilidade, atençao, criatividade… Que Deus te capacite ainda mais a
+    cada dia!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 13/04/2016 de 01:31
+  content: Obrigada Déia! É o que mais peço à Ele! Beijos
+  depth: 2
+- author: Marisa
+  date: 12/04/2016 de 23:18
+  content: Que várias janelas sejam abertas, todos os dias!!!É estimulante ver sua
+    dedicação e o progresso do Enzo!💙
+  depth: 1
+- author: MIchelle Carvalho
+  date: 13/04/2016 de 01:33
+  content: Obrigada pelo carinho Ma! Beijos
+  depth: 2
+- author: Luciana Lopes Ricardo
+  date: 13/04/2016 de 09:45
+  content: Querida prima,tudo é admirável, a forma como você escreve e passa pra gente
+    de maneira simples e inteligente, a forma como você está conduzindo essa novidade
+    na sua vida e principalmente  a forma perfeita que você expressa o seu amor pelo
+    Enzo e sua familia. E a todo momento expressando gratidão à Deus .Te admiro muito
+    ! Te amo cada dia mais.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 13/04/2016 de 12:00
+  content: Obrigada pelo carinho Lu, que Deus continue me capacitando!!!! Te amo muito
+    tb
+  depth: 2
+- author: Michelle
+  date: 20/04/2016 de 22:43
+  content: Oi Michelle,  muitas vezes passamos por situações, dificuldades, que na
+    hora não compreendemos, mas saiba que nosso Pai está sempre ao nosso lado nos
+    apoiando e fortalecendo para que possamos vencê-las. Estou admirada com sua força,
+    dedicação e coragem! Um exemplo de mãe a ser seguido.  Continue firme assim que
+    o Enzo a cada dia conquistará grandes resultados.  Parabéns pela iniciativa do
+    blog! Michelle (amiga da Flá)
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/04/2016 de 22:39
+  content: Obrigada pelo carinho Michelle! Fico feliz que esteja nos acompanhando.
+  depth: 2
+- author: Gabriela
+  date: 13/05/2016 de 16:22
+  content: Queria ter dançado com vocês!!!!Lindo!!!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 18/05/2016 de 19:06
+  content: Gabi, você ia amar e se emocionar. Foi maravilhoso!
+  depth: 2
 ---
 
 Chamo de “janelas de abertura” aquelas pequenas oportunidades de me comunicar com meu filho. A abertura que ele me dá para entrar no seu mundo e ensinar alguma coisa do meu mundo! Mesmo que dure segundos… Cada “janela” que encontro é uma felicidade imensa, a sensação que dá é que ele está ali, da mesma forma que antes, só precisa ser “acordado”.  

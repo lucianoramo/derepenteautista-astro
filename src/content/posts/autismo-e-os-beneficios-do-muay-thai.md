@@ -7,6 +7,17 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2017/02/image-2.jpg
 description: Em minhas intermináveis pesquisas por uma melhor condição de vida, e
   maior desenvolvimento para meu
+comments:
+- author: Siomara Pereira
+  date: 11/02/2017 de 10:29
+  content: Que lindo Michele!!! Muito feliz com os progressos!!! Parabéns! Amo vcs!!!
+  depth: 1
+- author: Maria Cristina
+  date: 14/02/2017 de 11:14
+  content: Deus sempre capacitando vc para o melhor desempenho do Enzo . Vejo todos
+    os seu comentários e fico muito feliz por vcs estarem firmes nos propósitos de
+    Deus. Testemunhado o poder de Deus que é bom ,perfeito e alegre .
+  depth: 1
 ---
 
 Em minhas intermináveis pesquisas por uma melhor condição de vida, e maior desenvolvimento para meu filho, descobri o quanto a atividade física é benéfica em todos os sentidos. Melhora a coordenação motora, autonomia, auto confiança, melhora as relações sociais, auto conhecimento corporal, disciplina e possui enormes ganhos na qualidade do sono.

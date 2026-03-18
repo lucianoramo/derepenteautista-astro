@@ -7,6 +7,110 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/09/image-1-862x575.jpg
 description: Quando Enzo fez dois anos e meio comecei o desfralde, ainda não tínhamos
   o diagnóstico fechado, mas
+comments:
+- author: LEONIDIA
+  date: 13/09/2016 de 23:50
+  content: Te amo minha filha!Enzo,nosso grande amor!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 14/09/2016 de 08:44
+  content: Também te amamos muito mãezinha!
+  depth: 2
+- author: Katia
+  date: 14/09/2016 de 09:00
+  content: Muito lindo Michelle seu blog. A cada dia aprendemos mais…. Parabéns
+  depth: 1
+- author: MIchelle Carvalho
+  date: 16/09/2016 de 19:05
+  content: Obrigada pelo carinho Kátia!
+  depth: 2
+- author: Marcos
+  date: 14/09/2016 de 11:24
+  content: Acho fantástico a sua dedicação e superação a cada dia. Deus te abençoe
+    sobrinha querida. Bjd
+  depth: 1
+- author: MIchelle Carvalho
+  date: 16/09/2016 de 19:06
+  content: Obrigada meu tio tão amado. Deus te abençoe e continue te usando.bjos
+  depth: 2
+- author: sarah
+  date: 14/09/2016 de 13:58
+  content: Vc é uma mãe maravilhosa!!!As vezes penso nos casos de pais que não aceitam
+    o diagnóstico ou não procuram ajuda…a dificuldade dessas crianças em lidar com
+    essas questões e tantas outras… 🙁 bjos michelle!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 16/09/2016 de 19:08
+  content: Obrigada pelo carinho Sarah.Com certeza a vida de uma criança, que tem
+    o diagnóstico negado pelos pais, é muito mais limitada, e a vida dos pais, muito
+    mais frustrante.
+  depth: 2
+- author: Cristina Munck
+  date: 14/09/2016 de 16:20
+  content: Temos erros sim em criar nossos filhos . Mas são muito mais acertos do
+    que erro . Vc é e sempre será muito abençoada por Deus em tudo que fizer . Te
+    amo em Cristo Jesus.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 16/09/2016 de 19:09
+  content: Obrigada pelo carinho tia Cristina.Amamos você
+  depth: 2
+- author: Cláudia
+  date: 23/09/2016 de 13:45
+  content: Michele lindo seu blog , me emocionou muito o abracinho do Enzo , fiquei
+    tão emocionada vc não faz ideia . Estou a disposição pra qdo quiser nadar viu
+    ?Com pais assim dedicados o Enzo terá muito a aprender , fique na paz
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/09/2016 de 00:12
+  content: Obrigada Claudia, muito obrigado mesmo. Com certeza em breve Enzo irá aprender
+    a nadar com você.Beijos.Deus te abençoe
+  depth: 2
+- author: Patricia
+  date: 15/11/2016 de 20:16
+  content: O desfralde aqui em casa também teve muitas idas e vindas, voltei atrás
+    quantas vezes achei necessário, até ele está pronto, comecei com dois anos e meio,
+    e deixou as fraldas com 4 anos, só usa agora pra dormir a noite. Me identifiquei
+    com a parte em que ele fazia xixi e saia nadando, o meu também ja fez isso kkk
+    tinha vez que o meu fazia xixi de 5 em 5 min. Uma vez se levantou e fez em cima
+    do tablet kkkkkkkk
+  depth: 1
+- author: Maristela
+  date: 20/02/2017 de 21:18
+  content: Querida Michelli, Yan  está exatamente com 5 anos e 7 meses e hoje foi
+    o primeiro dia sem fralda e idas expontâneas ao banheiro tanto para o número 1
+    como para o número 2. Como meu coração se alegrou! Quando a terapeuta me disse
+    que o desfralde seria a última coisas que nos preocuparíamos  quase tive um “treco”!
+    Mas ela estava totalmente certa, existiam outras prioridades e precisávamos avançar
+    em outras áreas. Paciência , muita paciência, muitas trocas de fraldas. Não sei
+    como será amanhã, mas hoje estou muito feliz e agradecida a Deus pela vitória
+    do dia! Respeitar o tempo deles é FUNDAMENTAL!
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/02/2017 de 07:41
+  content: Que linda vitória Maristela, por aqui ainda estamos no processo.Parabéns
+    pela sua determinação e por não desistir.Deus abençoe vocês.
+  depth: 2
+- author: Marion
+  date: 26/02/2017 de 22:27
+  content: Michelle, ótimo texto! Realmente temos que ter muita paciência! Meu menino
+    está com 5 anos e decidimos iniciar o desfralde agora, terceira tentativa. Já
+    tem quase um ano que as fraldas amanhecem secas, são raros os escapes, então está
+    parte está sendo mais fácil. Agora durante o dia está difícil! Após algumas anotações
+    percebemos que os intervalos são de 2 em 2 horas, chegando a ficar 4 horas sem
+    fazer nada. O problema é que ele não faz no vazo de jeito algum! Chegamos a ficar
+    dez minutos sentados e nada, quando levanta lá vem água. IssoPorque levamos ele,
+    se não, não vai! Teria alguma dica para nós dar? Ele é autista não verbal, utilizamos
+    imagens para auxilia-lo. Obrigada! E mais uma vez parabéns!!!
+  depth: 1
+- author: Michelle Carvalho
+  date: 17/03/2017 de 15:32
+  content: Marion, primeiramente parabéns pela sua persistência, paciência e amor.
+    Sei que não é fácil. Fazer um quadro de rotina do treino de toalete é bem legal,
+    fica mais visual e mais fácil. Pode tirar fotos dele mesmo é fazer a rotina. Outra
+    coisa que pode tentar e deixá-lo fazer xixi de pé. Pode funcionar.Estou à disposição
+    para o que precisar.Que Deus te abençoe.
+  depth: 2
 ---
 
 Quando Enzo fez dois anos e meio comecei o desfralde, ainda não tínhamos o diagnóstico fechado, mas ele já havia perdido algumas habilidades importantes e, claramente, sua dificuldade de comunicação aumentava a cada dia.

@@ -8,6 +8,18 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/03/image-2.jpg
 description: Só soube a força que tinha quando minha única alternativa foi ser forte,
   mas só tive a força que pre
+comments:
+- author: Alexandra Lizardo
+  date: 27/03/2016 de 23:07
+  content: Maravilhoso Michelle vcs irão ajudar muitos pais que estão passando pela
+    mesma situação . e a gente as vezes não quer aceitar acha difícil encarar as coisas
+    como realmente são . se a gente encarasse de uma forma mais forte talvez as coisas
+    seriam menos sofridas .
+  depth: 1
+- author: Ana Carolina
+  date: 29/03/2016 de 07:10
+  content: Sem palavras…
+  depth: 1
 ---
 
 Só soube a força que tinha quando minha única alternativa foi ser forte, mas só tive a força que precisei quando permiti que Deus se agigantasse dentro de mim.  

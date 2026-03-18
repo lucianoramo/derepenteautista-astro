@@ -5,6 +5,33 @@ categories:
 - Blog
 author: Michelle Carvalho
 image: /wp-content/uploads/2017/08/image-4.jpeg
+comments:
+- author: Cristina Munck
+  date: 22/08/2017 de 09:38
+  content: Tem explicação sim !  Vc é um exemplo à seguir , pois Deus usa vc e o Enzo
+    para nos mostrar que com amor , discernimento e fé em Deus somos capazes de ir
+    em frente . Que Deus continue capacitando vc a seguir em frente com todo este
+    amor e dedicação .
+  depth: 1
+- author: LEONIDIA
+  date: 22/08/2017 de 15:05
+  content: Que Deus continue te capacitando mais e mais para que você vença todas
+    as dificuldades.Que você é o Enzo sejam muito felizes nessa nova etapa da sua
+    vida.TUDO POSSO NAQUELE QUE ME FORTALECE.Amo vocês!
+  depth: 1
+- author: Flávia
+  date: 22/08/2017 de 16:23
+  content: Deus escolhe realmente as pessoas e você é um exemplo. Parabéns, o Enzo
+    tem uma mãezona e juntos vcs formam uma dupla de sucesso e, com certeza, estão
+    ajudando muitas outras duplas. O calendário ficou muito bonito e principalmente
+    divertido, o que torna a rotina agradável. Que Jesus abençoe grandemente a vida
+    de vocês. Um abraço!
+  depth: 1
+- author: Deia Tomaz
+  date: 22/08/2017 de 19:11
+  content: Amei o calendário!!! Muito legal para auxiliar qq criança em momento de
+    mudanças!Força ai em BH! Continuamos orando por vcs daqui!!
+  depth: 1
 ---
 
 “A rotina diária é para as crianças o que as paredes são para uma casa: lhes dá limites e dimensão para a vida” – Rudolf Dreikurs (grande educador e psiquiatra norte-americano)

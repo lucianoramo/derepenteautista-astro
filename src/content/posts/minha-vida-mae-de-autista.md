@@ -7,6 +7,54 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2018/12/letters-1390463_1920.jpg
 description: Lembro da expectativa na sala de parto, as mãos geladas esperando aquele
   chorinho de bebê para aquie
+comments:
+- author: Luciana
+  date: 05/12/2018 de 16:39
+  content: Que bom que voltou a escrever. Estava com saudades da sua escrita simples
+    e ao mesmo tempo tão impactante.Me vejo nas suas palavras, mesmo o Felipe não
+    tendo autismo, mas toda criança traz consigo desafios que nós país vamos juntos
+    descobrindo e vencendo.Muito obrigado por compartilhar suas experiências.Você
+    e o Enzo são vencedoresAmo vocês ❤️❤️❤️❤️❤️❤️❤️
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:55
+  content: Obrigada pelo carinho Lu 💙
+  depth: 2
+- author: Rafaela
+  date: 05/12/2018 de 16:48
+  content: Que alegria ter você de volta!Obrigada por compartilhar seus sentimentos
+    e dividir conosco um pouquinho dessa sua força.
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:54
+  content: Muito obrigada Rafaela. Esse carinho é fundamental ❤️
+  depth: 2
+- author: Denise Moreira
+  date: 05/12/2018 de 21:20
+  content: Você me emociona com suas palavras! Tenho certeza que Enzo é muito feliz
+    por ter uma mãe como você!
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:54
+  content: Obrigada pelo carinho 💙
+  depth: 2
+- author: Alexandra lizardo
+  date: 10/12/2018 de 18:31
+  content: Obrigado por dividir conosco suas aflições sua experiência. E principalmente
+    suas vitorias e do nosso Príncipe. Não deixe de escrever você ajuda muitas familias
+    com seu amor .amo vc minha irmã do coraçao
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:54
+  content: Obrigada pelo carinho 💙
+  depth: 2
+- author: xvideos
+  date: 23/11/2019 de 15:59
+  content: “Muitas vezes ouvi de medicos ou de pessoas proximas que nao deveria cuidar
+    dela. Diziam que era loucura abandonar minha vida por ela, que Carola nao e minha
+    filha. Mas e, sim. E minha responsabilidade desde o dia em que a adotei, e farei
+    isso ate quando Deus quiser.”
+  depth: 1
 ---
 
 Lembro da expectativa na sala de parto, as mãos geladas esperando aquele chorinho de bebê para aquietar o coração e saber que está tudo bem, confirmando os exames de pré natal. Aquele foi o melhor som que ouvi na minha vida, a melhor experiência que tive foi sentir aquele bebê se aconchegar no meu rosto se acalmando com a minha voz dizendo: Oi filho tá tudo bem, mamãe está aqui! Seja bem vindo meu amor. Deus te abençoe, Deus te abençoe… Eu te amo

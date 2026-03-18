@@ -7,6 +7,50 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2019/05/IMG-20190405-WA0027.jpg
 description: Sentir aquele bebê tão desejado mexer na minha barriga, fez o meu sonho
   de ser mãe se tornar concret
+comments:
+- author: Leonidia
+  date: 10/05/2019 de 16:40
+  content: Que coisa mais linda minha filha.Tenho muito orgulho de você.Enzo é e sempre
+    será muito amado por todos nós.Que Deus guie cada passo seu e te dê sabedoria
+    para enfrentar todos os obstáculos que encontrar nessa luta e também é de todas
+    nós.Te amo filha!
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:37
+  content: Obrigada mãezinha ❤️
+  depth: 2
+- author: Álvaro
+  date: 10/05/2019 de 20:17
+  content: Sem palavras sobrinha querida. Vc espelha o verdadeiro amor de DEUS. O
+    amor ágape.
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:36
+  content: Amém!!!! Deus sempre será meu refúgio e minha fortaleza. 💙💙💙💙
+  depth: 2
+- author: Lane Magalhaes
+  date: 10/05/2019 de 20:55
+  content: Michelle,Vc é ímpar, Deus não poderia ter escolhido melhor mãe para Enzo.Que
+    sua esperança e fé sejam renovadas  todos os dias.Bjs no coração
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:35
+  content: Obrigada pelo carinho de sempre 💙💙💙
+  depth: 2
+- author: Luiza Helena
+  date: 29/05/2019 de 16:36
+  content: Lindo depoimento. Conheci o  Enzo bebê  . Soube  recentemente que tenho
+    um sobrinho  com autismo. Obrigada pelo Blog  tenho certeza que já tem contribuído
+    e contribuirá para esclarecimentos e apoio a muitas pessoas. Bjs saudades Luiza
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:32
+  content: Obrigada pelo carinho 💙 saudades também
+  depth: 2
+- author: Emanuelly
+  date: 07/12/2020 de 22:46
+  content: Coisa mais linda de se ler . Somos mães e os amamos infinitamente
+  depth: 1
 ---
 
 Sentir aquele bebê tão desejado mexer na minha barriga, fez o meu sonho de ser mãe se tornar concreto mesmo antes de efetivamente se tornar uma realidade palpável.

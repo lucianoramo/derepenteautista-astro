@@ -6,6 +6,65 @@ categories:
 author: Michelle Carvalho
 image: /wp-content/uploads/2016/12/image.jpg
 description: Há um tempo atrás compartilhei na página
+comments:
+- author: Siomara Pereira
+  date: 13/12/2016 de 10:05
+  content: Demais 😢!!! Grandes sósias o Senhor fará! Creio que o Enzo será uma grande
+    história de vitória e superação !!! Amo vc s!!!
+  depth: 1
+- author: Eliane
+  date: 13/12/2016 de 10:58
+  content: Emocionante demais!! 😪😪
+  depth: 1
+- author: LEONIDIA
+  date: 13/12/2016 de 11:28
+  content: É muita emoção filha!Choro quando leio seus Post.Filha guerreira,neto guerreiro.juntos
+    venceremos todos os obstáculos que estão por vir.Amo vocês!QUÃO GRANDE É NOSSO
+    DEUS!
+  depth: 1
+- author: Juliana Rosa Renzetti
+  date: 13/12/2016 de 11:43
+  content: Meus Deus que coisa mais linda!!! Como Deus é maravilhoso… Que felicidade
+    a sua….Chorei de emoção e alegria por vocês dois… Ja amo o Enzo sem conhecê -lo
+    ❤❤❤❤
+  depth: 1
+- author: Silvia
+  date: 14/12/2016 de 09:02
+  content: Esse amor de mãe e filho é tão grande que ultrapassa qualquer barreira
+    !!!!!❤️❤️
+  depth: 1
+- author: Milena
+  date: 14/12/2016 de 14:00
+  content: Simmm, eu estava lá. Não podia deixar de passar aqui para escrever e me
+    emocionar mais uma vez. Pois as emoções como você mesmo disse, elas vão e vem,
+    umas mais avassaladores, outras menos…E essa eu posso dizer que foi intensa. A
+    gente que está de fora, vive isso sabia, sente, tem filho, se coloca no lugar
+    do outro…Olha só posso te desejar muitas e muitas alegrias que virão…Grande bj
+    no seu coração grande, de mãe e amor.
+  depth: 1
+- author: Alexandra Lizardo
+  date: 30/01/2017 de 14:42
+  content: Chorando de alegria obrigado por compartilhar com a gente este momento
+    de muita felicidade . Pode sempre contar com a nossa. Torcida bjs em você e no
+    Enzo
+  depth: 1
+- author: Karla Rocha
+  date: 14/12/2017 de 01:06
+  content: 'Que benção! Que Deus continue abençoando vocês! A Gabi veio me contar
+    toda feliz na semana passada que o Enzo tinha chamado ela pelo nome…” Mãe, ele
+    nunca tinha me chamado… E hoje ele chegou e me chamou: Gabi!! ” … Fiquei muito
+    feliz e comemorei com ela!'
+  depth: 1
+- author: Iara Sene
+  date: 12/12/2018 de 23:40
+  content: 'Que lindo. Estou aqui chorando. Eu também tenho um Enzo autusta e o primeiro
+    eu te amo veio há poucos dias ais 5 anos dele. Eu tbm me emocionei muito e agora
+    vira e mexe ele me olha nos olhos e diz: mamāe, eu te amo!!'
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:53
+  content: Obrigada pelo carinho 💙. Que seu Enzo te surpreenda cada dia mais
+  depth: 2
 ---
 
 Há um tempo atrás compartilhei na página “De Repente Autista” do Facebook um depoimento da primeira vez que ouvi meu filho dizer: “Mamãe, eu te amo!”  

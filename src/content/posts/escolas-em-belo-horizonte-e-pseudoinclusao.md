@@ -7,6 +7,83 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2017/10/image.jpeg
 description: Estive fisicamente em 12 (doze)  das escolas mais conceituadas de Belo
   horizonte e conversei ao tele
+comments:
+- author: LEONIDIA
+  date: 02/11/2017 de 00:59
+  content: Como é doloroso e revoltante ver minha filha e meu neto passarem por tudo
+    isso.Mas essa é só mais uma batalha que com certeza e com muita garra que ela
+    sempre teve,vai vencer.Que Deus abra o coração dessas pessoas e assim o mundo
+    vai ser bem melhor.Parabens minha filha por essa luta.Estamos sempre juntas.Deus
+    te abençoe sempre.Te amo!
+  depth: 1
+- author: Luciana
+  date: 02/11/2017 de 07:17
+  content: Michele infelizmente essa é uma realidade dura, as escolas são estão interessadas
+    em números, dinheiro, sucesso e isso se reflete no próprio aluno que tem uma formação
+    pautada na competição e no ter e não no ser. A grande maioria é assim.
+  depth: 1
+- author: Carina Bigonha Ruggio
+  date: 02/11/2017 de 07:44
+  content: Entendo que estamos só no início do processo de inclusão! Trabalho com
+    consultoria para inclusão escolar e temos como parceiros dias GRANDES redes de
+    escolas em BH! Isso me dá esperanças de, um dia, termos uma inclusão100% eficiente!
+    O processo é longo….exige uma mudança de paradigma, por isso não é fácil!
+  depth: 1
+- author: Luciene Gontijo
+  date: 02/11/2017 de 09:43
+  content: Michele, não desista!Também tenho esperança no cumprimento dessa lei bem
+    como no amor e respeito ao próximo!Mas eu, listaria as escolas sim! Às vezes,
+    o outro só funciona quando é exposto a situações que o denigrem, desconcertantes!Bjos
+    de luz pra você e Enzo❣️
+  depth: 1
+- author: Ivana Meira
+  date: 02/11/2017 de 13:16
+  content: Conheço essa aflição e compartilho da sua revolta! Só nesmo com luta e
+    expondo essas situações é que encontraremos caminhos para conseguir uma mudança
+    efetiva. Eu exporia as instituições,  listaria seus nomes, embora saiba que infelizmente
+    isso também pode trazer mais problemas do que soluções. ..um bjo!
+  depth: 1
+- author: Lane magalhaes
+  date: 02/11/2017 de 18:35
+  content: Michelle querida,Passei por essa  experiência há 13 anos atrás, como te
+    entendo!O que de fato não entendo é que 13 anos não tenham sido suficientes para
+    as “tão conceituadas” escolas se humanizarem.Que mundo é esse?Não desanime sua
+    força, persistência e voz pode e vai mudar esse cenário!Bjs no coração
+  depth: 1
+- author: Denise Ribeiro
+  date: 28/02/2018 de 14:30
+  content: Oi. Tbm sou mae de um filho autista. Gostaria de saber se posteriotmente
+    vc consegiiu vaga em alguma escola
+  depth: 1
+- author: barbara ribeiro costa
+  date: 02/03/2018 de 13:43
+  content: Bom dia, Meu filho foi diagnosticado dentro do espectro autista, eu estou
+    me sentindo a pior pessoa do mundo por não ter dinheiro para pagar as terapias
+    que ele precisa, pelo plano de saúde ele az meia hora de Fono e meia hora de terapia
+    ocupacional. Mas não e o suficiente, pois ele tem 3 anos e não fala. As coisas
+    por ele não saber se comunicar são bem difíceis.Enfim, a historia e longa so que
+    eu não to dando conta mais de fazer isso sozinha, eu choro todos os dias não tenho
+    vontade de fazer absolutamente nada, so dormir.Gostaria de saber se vc pode me
+    ajudar.Obrigada.
+  depth: 1
+- author: Simone
+  date: 28/05/2018 de 22:16
+  content: Boa noite Bárbara, não fique assim, não se culpe pelo diagnóstico do seu
+    filho. Tenho uma Associação na minha cidade e sei que BH tb tem.Qualquer coisa
+    entre em contato comigo pelo watsap 9.8842.3817Fique firme.
+  depth: 2
+- author: Líbia Frances
+  date: 19/01/2019 de 08:49
+  content: Mamãe, vc não foi a primeira e não será a última (infelizmente)a passar
+    por isso , mas o que lhe faz diferente de todas é a garra e coragem de contar
+    a sua história que são a da maioria! Sem força e união nossas crianças  não conseguirão
+    vencer esta barreira sozinhos. Parabéns e continuemos na luta! Oba. Não mãe de
+    autista , mas apaixonada por eles.
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:50
+  content: Obrigada pelo carinho 💙
+  depth: 2
 ---
 
 Estive fisicamente em 12 (doze)  das escolas mais conceituadas de Belo horizonte e conversei ao telefone com outras 3 (três). Ao todo contactei 15 (quinze) escolas.

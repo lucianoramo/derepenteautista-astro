@@ -5,6 +5,56 @@ categories:
 - Blog
 author: Michelle Carvalho
 image: /wp-content/uploads/2019/07/IMG_20190707_131016487.jpg
+comments:
+- author: Leonidia
+  date: 13/07/2019 de 12:27
+  content: Sensacional minha filha!E digo mais,EU SOU AVÓ DE UM AUTISTA.Ele é nosso
+    lindo anjo azul.Amo demais!Parabéns minha filha!Estamos juntas nessa batalha.O
+    amor constrói e abre caminhos.Te amo!
+  depth: 1
+- author: Fabio
+  date: 13/07/2019 de 12:48
+  content: Lindo simplesmente lindo !!!Sim sou pai de Autista!
+  depth: 1
+- author: Maria de Fátima de Salles Cunha
+  date: 15/07/2019 de 13:20
+  content: Emocionante…Lindo demais…EU SOU VÓ DE AUTISTA…E  AMO MUITO!!!
+  depth: 1
+- author: Audrey
+  date: 18/07/2019 de 01:06
+  content: Texto excelente!!! Realista e sensível.
+  depth: 1
+- author: Valdilene Pereira
+  date: 04/02/2020 de 04:10
+  content: Sou Valdilene e sou mãe de autista com amor,fé e orgulho.
+  depth: 1
+- author: Anita yoshie ishiba
+  date: 21/10/2020 de 20:56
+  content: Eu sou vó de um autista e sofro juntamente com a minha filha  ,e querendo
+    ajudar de alguma forma. Gostaria de saber onde a Michelle mora para poder conversar
+    com ela e ajudar o meu neto.
+  depth: 2
+- author: Michelle Carvalho
+  date: 26/10/2020 de 11:23
+  content: Anita, por favor, entre em contato no inbox do Instagram @derepenteautista
+    será um prazer ajudar vocês
+  depth: 3
+- author: Grazielly Suely
+  date: 24/09/2020 de 07:43
+  content: Que texto emocionante!! Parabéns!
+  depth: 1
+- author: torneira misturador mangueira de arrancamento inox
+  date: 10/06/2021 de 21:08
+  content: Ótimo artigo. Muito obrigado por compartilhar detalhes agradáveis.
+  depth: 1
+- author: Carussa aline
+  date: 26/02/2022 de 16:40
+  content: Simplesmente Lindo!
+  depth: 1
+- author: Michelle Carvalho
+  date: 07/04/2022 de 19:10
+  content: Obrigada pelo carinho ❤
+  depth: 2
 ---
 
 “Nossa, ele é lindo, nem parece Autista!” é uma frase muito comum que as mães de crianças com Autismo costumam ouvir.  

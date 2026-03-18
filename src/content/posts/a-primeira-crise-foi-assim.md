@@ -7,6 +7,50 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2018/12/exhausted-1112456_640.jpg
 description: 'Era um dia como outro qualquer, nossa rotina estava dentro do previsto:
   acordamos, tomamos café, ter'
+comments:
+- author: Nadia
+  date: 28/12/2018 de 15:32
+  content: Lindo texto! VC é uma mãe singular e no minimo sensacional. bj
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:46
+  content: Obrigada pelo carinho 💙
+  depth: 2
+- author: Marisa
+  date: 28/12/2018 de 15:39
+  content: Mi não  deve e ter sido facil, posso tentar imaginar como foi, mas que
+    sorte do Enzo ter você como a Mãe! 🙏🏻  Um beijo pra vcs dois que moram no nosso
+    coração!
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:47
+  content: Obrigada pelo carinho 💙
+  depth: 2
+- author: Thais
+  date: 09/01/2019 de 10:40
+  content: Olá Michele, tudo bem? Você é de BH? Queria tanto conversar com você…também
+    sou daqui..
+  depth: 1
+- author: Michelle Carvalho
+  date: 21/01/2019 de 18:48
+  content: Oi Thaís, manda mensagem inbox no Facebook De Repente Autista, podemos
+    conversar sim. Beijos
+  depth: 2
+- author: Sílvia
+  date: 08/02/2019 de 22:50
+  content: Chorei lendo seu relato. N te conheço, mas vc parece ser uma pessoa muito
+    iluminada. Que Deus te abençoe imensamente.
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:31
+  content: Obrigada pelo carinho Silvia ❤️
+  depth: 2
+- author: Cícera Herislânia Bento Ribeiro
+  date: 27/09/2021 de 15:43
+  content: Que texto lindo, me emocionei muito. Ainda não passei por uma crise, foi
+    muito bom ler seu texto.  É incrível como pequenas coisas pra nós, fazem total
+    diferença pra eles.
+  depth: 1
 ---
 
 Era um dia como outro qualquer, nossa rotina estava dentro do previsto: acordamos, tomamos café, terapia, almoço e escola.

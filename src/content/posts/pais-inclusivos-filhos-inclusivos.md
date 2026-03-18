@@ -7,6 +7,64 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2019/08/wheelchair-1629490_1280.jpg
 description: A escola tem, por lei e por ética (ou deveria ter), a obrigação de ser
   inclusiva, mas não é lá que s
+comments:
+- author: Raquel Assis
+  date: 13/08/2019 de 16:20
+  content: Michele, sua sensibilidade para com os outros é inspiradora! Te admiro
+    muito!!!! ❤️
+  depth: 1
+- author: Michelle Carvalho
+  date: 13/08/2019 de 16:41
+  content: Obrigada pelo carinho Raquel 💙 sua família é muito especial para mim.
+  depth: 2
+- author: Lane Magalhães
+  date: 13/08/2019 de 17:04
+  content: Ei Michelle,Temos o dever de deixar nossa marca no mundo, educar nossos
+    filhos é a maior delas…. Vc é admirávelBjsLane Magalhães
+  depth: 1
+- author: Michelle Carvalho
+  date: 23/08/2019 de 16:12
+  content: Obrigada pelo carinho de sempre 💙
+  depth: 2
+- author: Leonidia
+  date: 13/08/2019 de 19:38
+  content: Sensacional!Maravilhoso!
+  depth: 1
+- author: Michelle Carvalho
+  date: 23/08/2019 de 16:12
+  content: 💙💙💙
+  depth: 2
+- author: Graziella
+  date: 14/08/2019 de 09:34
+  content: Simplesmente perfeito!
+  depth: 1
+- author: Michelle Carvalho
+  date: 23/08/2019 de 16:13
+  content: Obrigada pelo carinho 💙
+  depth: 2
+- author: Cristina
+  date: 23/08/2019 de 16:06
+  content: Bom artigo. Parabéns pela iniciativa.
+  depth: 1
+- author: Michelle Carvalho
+  date: 23/08/2019 de 16:13
+  content: Muito obrigada!!! 💐💙
+  depth: 2
+- author: Cris
+  date: 23/08/2019 de 16:08
+  content: Os pais sendo inclusivos realmente faz toda a diferença. parabens.
+  depth: 1
+- author: Michelle Carvalho
+  date: 23/08/2019 de 16:13
+  content: 💙💙💙
+  depth: 2
+- author: JULIA GONTIJO VIANNA
+  date: 21/10/2019 de 13:57
+  content: Oi Michelle, tudo bem?Moro em BH também e meu filho possui autismo. A escola
+    onde ele está hoje se tornou impraticável e precisamos encontrar um local bacana
+    para ele. que coisa difícil não é mesmo? Gostaria de saber se tem indicações de
+    escolas inclusivas de verdade aqui em BH. Obrigada!
+  depth: 1
 ---
 
 A escola tem, por lei e por ética (ou deveria ter), a obrigação de ser inclusiva, mas não é lá que seu filho irá aprender sobre inclusão.

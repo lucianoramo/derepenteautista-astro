@@ -5,6 +5,49 @@ categories:
 - Blog
 author: Michelle Carvalho
 image: /wp-content/uploads/2016/04/image-5.jpg
+comments:
+- author: Fabi
+  date: 20/04/2016 de 07:26
+  content: Mi, emocionado com o relato e feliz por você dividir conosco! Ms Aline
+    é muito especial na vida de todos nós, em especial de nossos pequenos, esse carinho
+    e dedicação com a causa só aumentam minha admiração por ela.Aos poucos as peças
+    vão se “encaixando” e vamos descobrindo o quão boa é a escola e o apoio que nos
+    dão, esta é a compensação, certo?! Rs.Ao mestre com carinho e a mamãe  com amor!
+    Acho que nós vamos ter que escrever um post no blog, sobre essa mãe maravilhosa!!
+    Bjs, querida!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 20/04/2016 de 09:47
+  content: Obrigada pelo carinho Fabi! A escola e a professora são dignas de toda
+    homenagem! Fizeram isso e MUITO mais, se fosse relatar tudo daria um livro e não
+    um post RS. Beijos
+  depth: 2
+- author: Roberta Pereira
+  date: 20/04/2016 de 11:36
+  content: Lindo! Chorei!Parabéns Aline por escolher a melhor parte … a de ser instrumento
+    de Deus na vida dessas crianças e em especial do Enzo. Que Deus te abençoe e realize
+    coisas lindas em sua vida.
+  depth: 1
+- author: Aline Zanotti
+  date: 26/04/2016 de 23:25
+  content: Querida Michelle,Fiquei muito emocionada com seu post! O Enzo é uma criança
+    maravilhosa que já nos surpreendeu diversas vezes e tenho certeza que nos surpreenderá
+    cada dia mais! Acredito que somos nós que temos muito para aprender com esses
+    pequenos… te falei aquele dia quando você teve o diagnóstico  do Enzo e vale até
+    hoje, pode contar comigo e com nossa escola que faremos o que for possível para
+    ajudar nosso pequeno e sugar tudo que ele tem de bom para nos passar. Caminhando
+    juntos chegaremos muito, muito longe! 🙂
+  depth: 1
+- author: MIchelle Carvalho
+  date: 27/04/2016 de 00:15
+  content: Obrigada Aline, vocês são presentes de Deus nas nossas vidas, é lindo ver
+    Deus te capacitando e você permitindo! Com certeza juntos chegaremos muito mais
+    longe.
+  depth: 2
+- author: Aline Zanotti
+  date: 26/04/2016 de 23:26
+  content: Obrigada Roberta!
+  depth: 1
 ---
 
 “Bons professores possuem metodologia, professores FASCINANTES possuem sensibilidade” (Augusto Cury)  

@@ -7,6 +7,17 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2020/10/green-2559003_1280.jpg
 description: Sim, eles existem e são muitos. Nem sempre as terapias funcionam na frequência
   e velocidade que gost
+comments:
+- author: Valquiria
+  date: 26/10/2020 de 22:05
+  content: Perfeito e carregado de verdade, como sempre,  Michellinha! Muita força
+    pra vocês!
+  depth: 1
+- author: Lane Magalhães
+  date: 27/10/2020 de 05:30
+  content: Michelle querida, Sinta Deus em todos os passos dessa caminhada….. Bjs
+    no coração
+  depth: 1
 ---
 
 Sim, eles existem e são muitos.

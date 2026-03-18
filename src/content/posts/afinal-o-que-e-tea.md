@@ -7,6 +7,93 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/04/image-1.jpg
 description: TEA é a sigla para Transtorno do Espectro Autista, que como diz o nome,
   é um espectro imenso de um g
+comments:
+- author: Leonidia Lopes
+  date: 09/04/2016 de 07:14
+  content: Filha!Tenho muito orgulho de você! Com seu amor incondicional,Enzo vencerá
+    todas as barreiras.Deus no controle.Amo vocês!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 08:03
+  content: Obrigada mãezinha! Tenho uma mãe guerreira como exemplo. Também amamos
+    muuuuito você!
+  depth: 2
+- author: Izabela Soares
+  date: 09/04/2016 de 08:33
+  content: Mi, a cada dia adoro mais o blog!Você compartilhar sua experiência, ajuda
+    não só os pais que têm filhos autistas, mas  também na comunicação e atitudes
+    com crianças em geral!Você e seu filhote são muito abençoados!Um beijo enorme
+    de uma fã!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 09:23
+  content: Que bom Bela, fico muito feliz e honrada em ter uma fã tão querida! Muita
+    saudade!
+  depth: 2
+- author: Amanda Ramos
+  date: 09/04/2016 de 08:35
+  content: Suas dicas são muito preciosas. Imagino que quem esteja passando pela sua
+    situação se sinta muito confortado com sua iniciativa. Sou amiga da sua irmã,
+    Flavy, e acompanho as fofuras do Enzo há muito tempo e agora, acompanho também
+    sua linda trajetória. Parabéns Michele!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 09:25
+  content: Obrigada Amanda pelo seu apoio e carinho!
+  depth: 2
+- author: Kelly Valvassoura Correia
+  date: 09/04/2016 de 08:42
+  content: Que lindo Michelle. Acompanhar essa historia tem sido engrandecedor. Se
+    as mães de crianças típicas tivessem tanta atençao e paciencia com seus filhos
+    como voce tem com o Enzo, formariamos uma geracao melhor que a nossa! Quem sabe
+    ne, tomara que voce alcance mais e mais pessoas!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 09:29
+  content: Muito obrigada Kelly, fico feliz que esteja nos  acompanhando. É o que
+    mais peço a  Deus, que me capacite a ser uma mãe melhor a cada dia e que esse
+    amor gigantesco que sinto pelo meu filho alcance e contagie outras pessoas!
+  depth: 2
+- author: Deia Tomaz
+  date: 09/04/2016 de 10:01
+  content: Uma aula de comunicação, independente do autismo! Acho q muitas vezes o
+    Joao nao me entende pq nao sei ser literal rs…Parabens por cada conquista Michelle!
+    Muitas virão, eu creio!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 14:13
+  content: Obrigada Déia, eu creio também! Ser literal é um exercício diário mas muito
+    gratificante com muitos resultados. Beijos
+  depth: 2
+- author: Alexandra Lizardo
+  date: 09/04/2016 de 10:38
+  content: Estou apaixonada por esse blog . como está nos ajudando a ver as coisas
+    de forma diferente . e tenho certeza que ir ajudar muitos pais com está troca
+    de experiência . creio que o Enzo será um adulto mais independente com tanto amor
+    e envolvido . grande bjs
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 14:15
+  content: Obrigada Alexandra, fico muito feliz que esteja gostando do blog, nos acompanhando
+    e compartilhando tudo que posto. Muito obrigada pelo seu carinho e apoio
+  depth: 2
+- author: Flavianne
+  date: 09/04/2016 de 12:32
+  content: 'A cada post e a cada dia tenho a absoluta certeza da missão maravilhosa
+    que Deus lhe deu! E ELE, em sua infinita bondade e sabedoria, ESCOLHEU você, porque
+    simplesmente você é um ser humano único, especial, abençoada! Que tem o coração
+    transbordando do mais puro e verdadeiro amor! Amor que contagia, que nos faz querer
+    ser melhores que somos, que nos faz enxergar o mundo diferente! Que este amor
+    possa contagiar e atingir muitas pessoas!!  O Enzo é um pequetuchinho de muitaaaa
+    sorte!! Grandes coisas estão por vir!! E repito: “Juntas para além do final feliz”
+    Amo vocês'
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 13:06
+  content: Fla, sem palavras! Obrigada por ser para mim e para o Enzo TUDO que você
+    é! Muito do que sou aprendi com você, minha  irmã! Te amo muito, obrigada pelo
+    seu amor, carinho, presença, ombro, colo, ouvido, coração… Juntas sempre!
+  depth: 2
 ---
 
 TEA é a sigla para Transtorno do Espectro Autista, que como diz o nome, é um espectro imenso de um grupo de desordens complexas do desenvolvimento do cérebro. Essas desordens geram algumas características semelhantes, algumas mais severas outras mais brandas.  

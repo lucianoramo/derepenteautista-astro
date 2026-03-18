@@ -8,6 +8,104 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/03/image-3.jpg
 description: Gente, aqui quero falar sobre um assunto extremamente importante, doloroso,
   mas fundamental para os
+comments:
+- author: Ivia
+  date: 28/03/2016 de 22:26
+  content: Uma admiração vai crescendo a cada post ..sinto que muita força vem por
+    ai..
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:00
+  content: Obrigada Ivia!
+  depth: 2
+- author: Roberta Pereira
+  date: 28/03/2016 de 23:21
+  content: Lindo depoimento! Com certeza deve ter sido um grande desafio se recompor.“Tudo
+    posso naquele que me fortalece” Filipenses 4:13
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:01
+  content: Obrigada Ro, SEMPRE olhando para o alto, de onde me vem o socorro!
+  depth: 2
+- author: Letícia Kancelkis
+  date: 28/03/2016 de 23:47
+  content: Michelle, obrigada pela generosidade  de ter criado este blog tão valioso,
+    por meio do qual você, com amor e coragem, certamente trará mudanças fundamentais
+    para a vida de muitos!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:02
+  content: Obrigada Letícia por nos apoiar, peço a Deus que me faça instrumento Dele!
+  depth: 2
+- author: Ana Carolina
+  date: 29/03/2016 de 06:57
+  content: Michelle, como estou orgulhosa de vc!! Sua força e sua coragem!Como é lindo
+    ver a dor sendo transformada em testemunho.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:03
+  content: Carol, você é uma das mães que me inspiraram a fazer esse blog! Eu também
+    tenho um orgulho imenso de vc! Beijos.
+  depth: 2
+- author: Deia Tomaz
+  date: 29/03/2016 de 11:00
+  content: 'Ja escrevi aqui e repito: Enzo é um menino de sorte!! Quisera mais crianças
+    tivessem a mãe que ele tem…Sua força vem de Deus, por isso é grande e infinita!A
+    gente perde o chão mesmo quando algumas notícias chegam até nós, mas a melhor
+    forma de encarar é essa: orar, secar as lagrimas e buscar ajuda! Parabens por
+    priorizar o bem estar do seu filho em detrimento a sua dor!'
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:05
+  content: Obrigada Deia, sei que é uma mãe tão guerreira quanto eu e com um amor
+    imenso pelo lindo João! Obrigada pelo apoio e pelas palavras!
+  depth: 2
+- author: Mariane
+  date: 29/03/2016 de 11:36
+  content: Admirável depoimento. Admirável sua fé inabalável….Admirável MÃE…Estou
+    acompanhando o blog e encantada…..Parabéns….Em todas as minhas orações vcs serão
+    lembrados.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:06
+  content: Obrigada Mariane pelo apoio e pelas orações, são muito importantes para
+    nós!
+  depth: 2
+- author: Melissa Macena
+  date: 29/03/2016 de 19:53
+  content: “O choro pode durar uma noite mas a alegria vem pela manhã.” Salmo 30:5b.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:07
+  content: Isso mesmo Mel! E quanta alegria Deus tem nos proporcionado. Obrigada pelo
+    apoio
+  depth: 2
+- author: Angélica
+  date: 29/03/2016 de 19:55
+  content: Que publicação sincera, encorajadora e linda! Que Deus continue te usando
+    poderosamente para ajudar a tantas mamães.  E que n a luz do Senhor resplandesça
+    todos os dias através da Vida preciosa de Enzo.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 29/03/2016 de 23:08
+  content: Obrigada Angélica, muito obrigada pelas orações!
+  depth: 2
+- author: Paula Glória
+  date: 02/04/2016 de 15:24
+  content: Você tem o dom de ser mãe e de educar e emozionar as pessoas com suas palavras.
+    Que Deus te ilumine sempre!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 02/04/2016 de 16:58
+  content: Obrigada pelo carinho e pelo apoio Paula!
+  depth: 2
+- author: Alline Marinho Barbosa
+  date: 18/08/2017 de 21:12
+  content: O texto reflete tudo o que penso, hoje eu vivo o autismo e fiz dele minha
+    profissão. Amo minha profissão e faço pelos meus pacientes o mesmo que faço para
+    meu filho, pois eles merecem. Não escolhi o autismo foi o autismo que me escolheu
+    e como a bíblia diz Deus capacita seus escolhidos.
+  depth: 1
 ---
 
 Gente, aqui quero falar sobre um assunto extremamente importante, doloroso, mas fundamental para os pais que passam por coisas semelhantes à minha.  

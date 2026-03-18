@@ -7,6 +7,20 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/05/image-1.jpg
 description: Quem já ouviu o velho ditado que “Ser mãe é padecer no Paraiso”? Não
   sei o que você pensa, mas para
+comments:
+- author: Alexandra Lizardo
+  date: 10/05/2016 de 00:22
+  content: Muito lindo e verdadeiro este texto . obrigado pelo carinho compartilhando
+    connosco todas as experiências bjs
+  depth: 1
+- author: Daniela Benz
+  date: 10/05/2016 de 08:04
+  content: Excelente texto!!!!
+  depth: 1
+- author: Ana Carolina
+  date: 10/05/2016 de 16:33
+  content: ❤️❤️❤️❤️❤️
+  depth: 1
 ---
 
 *Quem já ouviu o velho ditado que “Ser mãe é padecer no Paraiso”? Não sei o que você pensa, mas para mim sempre me pareceu algo muito pesado. Não acho que essa seja a experiência que buscamos, e muito menos a que nossos filhos necessitam. Eu não quero meus filhos e nem os seus vendo uma mãe padecendo, exausta, deixando de existir. Eles merecem mais do que isso! E nós também.*

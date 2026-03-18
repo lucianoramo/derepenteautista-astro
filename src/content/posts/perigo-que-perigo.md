@@ -7,6 +7,47 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/05/image-2.jpg
 description: A maioria das crianças portadoras de TEA ( transtorno do espectro autista)
   não possuem noção de peri
+comments:
+- author: Alexandra Lizardo
+  date: 13/05/2016 de 19:04
+  content: Nossa muito importante este Post  educativo e eu aprendo sempre com VC
+    obrigado mi bjs
+  depth: 1
+- author: MIchelle Carvalho
+  date: 18/05/2016 de 19:07
+  content: Obrigada pelo apoio de sempre Xandra!!!!
+  depth: 2
+- author: Leonidia Lopes
+  date: 14/05/2016 de 07:41
+  content: Minha filha,muito bom passar essas informações para todas as mães. Continue
+    sempre orientando e acrescentando conhecimentos.Estamos sempre juntas.Te amo!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 18/05/2016 de 19:09
+  content: Obrigada mãezinha! Sempre juntas, com certeza. Te amo
+  depth: 2
+- author: MIchelle Carvalho
+  date: 18/05/2016 de 19:10
+  content: Obrigada mãezinha! Sempre juntas, com certeza. Te amo muito
+  depth: 2
+- author: Cristina Munck
+  date: 15/05/2016 de 14:46
+  content: A cada informação sobre o assunto , aprendo mais e entendendo o seu agir
+    com o Enzo . Que Deus continue capacitando vcs . Bjs .
+  depth: 1
+- author: MIchelle Carvalho
+  date: 18/05/2016 de 19:11
+  content: Amém tia! É o que sempre peço à Deus! Beijos
+  depth: 2
+- author: Letícia Kancelkis
+  date: 16/05/2016 de 23:07
+  content: Importantíssimo!!! Grata pela generosidade de dividir informações e vivências
+    tão preciosas conosco!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 18/05/2016 de 19:11
+  content: Obrigada pelo carinho Letícia! Beijos
+  depth: 2
 ---
 
 A maioria das crianças portadoras de TEA ( transtorno do espectro autista) não possuem noção de perigo. Se a criança achar um caminhão na rua bonito, muito provavelmente irá em sua direção sem a menor preocupação de ser atropelada.  

@@ -7,6 +7,124 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/04/image.jpg
 description: Vou falar hoje a respeito do autismo regressivo, esse que a criança se
   desenvolve normalmente e de r
+comments:
+- author: Deia Tomaz
+  date: 05/04/2016 de 08:13
+  content: Que benção Michelle!! Continue firme que as conquistas serão muitas e cada
+    vez mais frequentes!! Enzo vai ter progressos incriveis dia a dia! Tenha fé! Deus
+    esta cuidando de tudo e sabemos que vc é incansavel em estimula-lo!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 15:54
+  content: Obrigada Déia, seu apoio tem sido muito importante para nós!
+  depth: 2
+- author: Roberta Pereira
+  date: 05/04/2016 de 08:31
+  content: Muito feliz por vocês!! Deus vai te honrar. Vc está espalhando amor e não
+    poderia colher outra coisa em troca. Bjo
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 15:55
+  content: RO, foi uma felicidade gigantesca. Obrigada por suas orações!
+  depth: 2
+- author: Alexandra Lizardo
+  date: 05/04/2016 de 09:08
+  content: Michelle obrigado por compartilhar conosco parabéns pelo Enzo por compartilhar
+    está experiências conosco vc é guerreira e Enzo também torço por vcs grande beijo
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 15:56
+  content: Imagina Alexandra, vitórias devem ser compartilhadas. Deus é bom em todo
+    tempo. Obrigada pelo carinho
+  depth: 2
+- author: Leonidia Lopes
+  date: 05/04/2016 de 10:17
+  content: Deus é fiel o tempo inteiro.Estamos juntas nessa luta.Te amo filha!Enzo,presente
+    de Deus!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 16:02
+  content: Obrigada mãezinha, você é uma avó FANTASTICA para o Enzo, não é a toa que
+    ele se identifica tanto com você, sempre presente, amorosa, carinhosa, atenta,
+    respeitosa… Minha amiga, confidente, parceira, mãe! Te amo muito, eternamente!
+  depth: 2
+- author: Álvaro Lopes
+  date: 05/04/2016 de 15:02
+  content: “SE CRERES VERÁS A GLÓRIA DE DEUS.” Tamu junto.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 15:57
+  content: Eu creio!!! Do fundo do meu coração azul! Obrigada tio querido.
+  depth: 2
+- author: Flavianne Carvalho
+  date: 05/04/2016 de 19:15
+  content: E com certeza muitas outras palavras de amor e carinho virão espontaneamente!
+    Você ouvirá muitos “mamães”!!  Porque Deus está no controle e “todos hão de ver
+    … Quão grande é o Nosso Deus” ! E eu não poderia deixar de dizer como me sinto
+    feliz de ouvir do Enzo “ahhh Dindinha…”!!! Amo vocês!!!! Estaremos juntas para
+    além do final feliz!!! 💙💙
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 19:26
+  content: Obrigada minha irmã! Não sei o que seria de mim sem você. Com certeza estaremos
+    juntas, de mãos dadas além do final feliz! Te amo muuuuito. Eternamente
+  depth: 2
+- author: Fabi
+  date: 05/04/2016 de 20:37
+  content: Mi, muito esclarecedor!E que venham vááários “mamãe”!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/04/2016 de 21:28
+  content: Amem Fabi, que assim seja!!!
+  depth: 2
+- author: Cláudia Zago
+  date: 08/04/2016 de 03:16
+  content: Enfim…o tão sonhado e esperado MAMÃE. ..  que delícia o som dessa palavrinha
+    no seu ouvido . Minha amiga, Deus tem contemplado o amor e cuidado com o presente
+    que Ele te deu e pode ter certeza que Ele irá te surpreender e te emocionar cada
+    dia mais e mais!! Amamos vcs!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 08/04/2016 de 10:34
+  content: Amem Claudinha, eu creio nisso todos os dias! Obrigada pelo seu carinho.
+    Te amo
+  depth: 2
+- author: Alexandra Lizardo
+  date: 08/04/2016 de 13:41
+  content: Oi Michelle estamos com saudades das suas postagens .
+  depth: 1
+- author: MIchelle Carvalho
+  date: 09/04/2016 de 01:53
+  content: Alexandra, tem post novinho em folha! Obrigada por nos acompanhar. Beijos
+  depth: 1
+- author: Bianca
+  date: 26/06/2017 de 15:05
+  content: Que história emocionante. tenho certeza de que Deus irá recompensar o carinho
+    e amor destinados ao seu filho.
+  depth: 1
+- author: Michelle Carvalho
+  date: 06/08/2017 de 10:18
+  content: Obrigada pelo carinho Bianca!
+  depth: 2
+- author: Alline Marinho Barbosa
+  date: 18/08/2017 de 21:27
+  content: Só uma mãe de autista sabe o valor das pequenas conquistas. Quando meu
+    filho falou mamãe para mim foi o melhor dia da minha vida.
+  depth: 1
+- author: Rebeca
+  date: 30/05/2019 de 21:13
+  content: Nossa como é verdade que a GTE tem que ficar feliz com as pequenas coisas,
+    pq eu estou com o meu filho com uma suspeita de autismo e ainda não me conformei,
+    ainda estou naquele luto do filho perfeito. Essa semana ele ficou doente, com
+    uma gripe super forte e parece que nesses 3 dias ele deu uma regredida. Eu sei
+    q estou muito ansiosa, mas agora estou valorizando tanto o que ele tinha conquistado…
+    Não quero que se perca
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:34
+  content: Um dia de cada vez, recalcular a rota é, algumas vezes, doloroso. Mas são
+    novos sonhos. 💙
+  depth: 2
 ---
 
 Vou falar hoje a respeito do autismo regressivo, esse que a criança se desenvolve normalmente e de repente vai perdendo as habilidades.  

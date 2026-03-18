@@ -7,6 +7,31 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2021/02/people-2575946_1920.jpg
 description: Sempre fui de intensidades, de imensos, de profundidade. Sempre detestei
   o morno e o tanto faz, me i
+comments:
+- author: Maria Clara
+  date: 12/02/2021 de 06:29
+  content: Que texto lindo, vc tem o dom de verbalizar sentimentos
+  depth: 1
+- author: Michelle Carvalho
+  date: 14/02/2021 de 15:49
+  content: Obrigada.  Fico feliz que tenha gostado.
+  depth: 2
+- author: Gabriela
+  date: 12/02/2021 de 14:06
+  content: Simplesmente  MAGNÍFICO!!!!!!
+  depth: 1
+- author: Michelle Carvalho
+  date: 14/02/2021 de 15:49
+  content: Obrigada pelo carinho
+  depth: 2
+- author: Soade
+  date: 20/02/2021 de 20:57
+  content: Amei o texto, muito lindo!
+  depth: 2
+- author: Guanira
+  date: 15/02/2021 de 11:51
+  content: Você descreveu meus pensamentos, meus sentimentos, tudo!Amei!
+  depth: 1
 ---
 
 Sempre fui de intensidades, de imensos, de profundidade. Sempre detestei o morno e o tanto faz, me importo demais com o outro para deixar o indiferente reinar.

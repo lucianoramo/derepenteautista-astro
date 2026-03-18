@@ -7,6 +7,85 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2017/05/image.jpeg
 description: Sim! Consegui utilizar o MEDIF e vou compartilhar aqui minha experiência
   pessoal, complementando o p
+comments:
+- author: Katia
+  date: 31/05/2017 de 10:33
+  content: Parabéns pela insistência minha querida sobrinha. Não desista jamais de
+    seis direitos . Deus te abençoe sempre…
+  depth: 1
+- author: Maíra Abreu Salles de Carvalho
+  date: 31/05/2017 de 10:52
+  content: Parabéns pima!!!! Com certeza vai ajudar muita gente com mais esse POST!Beijos
+  depth: 1
+- author: Maria Carmelo L. Pereia
+  date: 31/05/2017 de 19:24
+  content: Parabéns!!! Vc nos spupreende a cada dia !! E semeando informações importantes.
+    Que pode ajudar muitas pessoas!! Você é gente que faz.!!! Diferença!! Te amo minha
+    sobrinha!!!
+  depth: 1
+- author: Lane Magalhaes
+  date: 31/05/2017 de 22:00
+  content: Parabéns MichelleVocê é mesmo surpreendente!!Bjs no coração
+  depth: 1
+- author: Thaiza Ozorio Flores
+  date: 04/08/2017 de 16:02
+  content: Boa tarde! pretendo fazer também uma viagem com meu filho autista pela
+    Gol e a duvida é, eu faço as reservas minha e dele antes de enviar o MEDIF preenchido?
+    O pagamento é só depois que o desconto é aprovado? você comprou a passagem pela
+    internet ou loja fisica? Desde de já agradeço! Bjs
+  depth: 1
+- author: Michelle Carvalho
+  date: 06/08/2017 de 10:18
+  content: Oi Thaiza, ligue no 0800 da Gol que te darão todas essas informações e
+    explicarão o procedimento.Inicialmente você faz, pelo telefone, a reserva das
+    passagens, tem um prazo para enviar os documentos solicitados para análise da
+    companhia aérea.
+  depth: 2
+- author: Juliana Holanda
+  date: 05/08/2017 de 23:33
+  content: Parabéns pela iniciativa. Lindo relato, Juntos somos mais fortes.
+  depth: 1
+- author: Michelle Carvalho
+  date: 06/08/2017 de 10:19
+  content: Obrigada pelo apoio Juliana.
+  depth: 2
+- author: Lucia Cardinali
+  date: 07/09/2017 de 15:35
+  content: Vou tentar o desconto,  tem idade mínima para a criança!? Qual a idade
+    do Enzo?
+  depth: 1
+- author: Michelle Carvalho
+  date: 16/09/2017 de 16:13
+  content: Não tem idade mínima, se tiver toda documentação certinha. Enzo está com
+    4 aninhos, atualmente.
+  depth: 2
+- author: Licia
+  date: 24/10/2018 de 03:18
+  content: Olá será se vc teria como fornecer uma cópia de como foi preenchido para
+    q não haja nenhum problema
+  depth: 1
+- author: Adriana
+  date: 26/06/2019 de 14:59
+  content: Realmente é um formulario bem chato. E não vi onde se especifica sobre
+    o AUTISMO/CID F84
+  depth: 1
+- author: Adriana
+  date: 26/06/2019 de 15:01
+  content: Tambem gostaria de uma copia preenchida pelo medico. Nossa, achei bem complicado
+    e repetitivo as questoes. Claro que os dados pessoais serao diferentes.
+  depth: 1
+- author: Gisele
+  date: 15/11/2019 de 14:30
+  content: Obrigada pelo relato. Ajudou-me bastante! Vou tentar usar pela primeira
+    vez e não sabia como proceder.
+  depth: 1
+- author: hclips
+  date: 20/11/2019 de 18:32
+  content: Boa noite! Em um curso de pos-graduacao sobre deficiencia intelectual surgiu
+    a pergunta que gerou uma polemica muito grande na sala. Na minha humilde opiniao
+    e seguindo a orientacao da questao, assinalei dislexia. Porem muitos da sala optaram
+    por autismo. E entao? Autismo e ou nao e uma deficiencia intelectual?
+  depth: 1
 ---
 
 Sim! Consegui utilizar o MEDIF e vou compartilhar aqui minha experiência pessoal, complementando o post anterior “[Autistas têm direito à acompanhante com desconto em viagens aéreas?](/autistas-tem-direito-acompanhante-em-viagens-aereas/)” que gerou inúmeros compartilhamentos, dúvidas e agradecimentos.

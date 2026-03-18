@@ -7,6 +7,178 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/05/image-4.jpg
 description: Converso diariamente com mulheres que me procuram pedindo diferentes
   tipos de ajuda, mães com filhos
+comments:
+- author: Flavianne
+  date: 23/05/2016 de 23:08
+  content: 'Nem tenho palavras para expressar a minha emoção em ler este post! Vou
+    repetir mil vezes: você foi escolhida de Deus para essa missão! Como é lindo ver
+    sua fé! Ouvir nosso pequetuchinho louvando a Deus é simplesmente maravilhoso!
+    Muitas bençãos ainda receberemos! E todos hão de ver quão grande é o nosso Deus!!!!
+    Amo muito vocês! Glórias a Deus, sempre!!'
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:49
+  content: Obrigada Fla, Dindinha tão amada do Enzo! Minha irmã tão querida, presente
+    de Deus para nós. Te amo!
+  depth: 2
+- author: Leonidia
+  date: 23/05/2016 de 23:26
+  content: Minha filha,choro toda vez que escuto o Enzo cantando Tão Grande é o meu
+    Deus.É lindo demais!Sei que Deus está conosco mostrando pra gente  que ele atende
+    uma mãe que ajoelha e pede por sabedoria pra lidar com todo tipo de problemas,nos
+    dando forças e multiplicando nosso amor.Te amo demais!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:51
+  content: Verdade mãezinha, obrigada por me ensinar tantas coisas… te amo muito.
+  depth: 2
+- author: Valquiria
+  date: 24/05/2016 de 07:10
+  content: Como sempre, sábio é verdadeiro o seu post, Michellinha ! São batalhas
+    e batalhas antes de se vencer uma guerra, e você está descobrindo as armas certas
+    para vencê-la! Estamos com vocês, sempre!Adorei ouvir vocês !Um grande abraço
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:52
+  content: Obrigada pelo carinho de sempre tia Quirinha! Beijos
+  depth: 2
+- author: Marcela Laino
+  date: 24/05/2016 de 08:02
+  content: Você tem o dom de tocar o coração das pessoas com as suas palavras, que
+    dá pra ver de longe , vem do fundo da alma! Muitas vezes lendo o seus posts me
+    senti confortada e tenho certeza que várias mães se sentem do mesmo jeito. Parabéns
+    pelo que vem fazendo! O Enzo é um garotinho de sorte !
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:54
+  content: Obrigada pelo carinho Marcela, fico feliz em saber que se sentiu confortada.
+    Que Deus te abençoe sempre. Seus filhos são 2 presentes lindos de Deus! Beijos
+  depth: 2
+- author: Andreia
+  date: 24/09/2021 de 17:41
+  content: Amei. Não é fácil, mas Deus está no controle de tudo. Mães de joelhos,
+    filhos de pé. Eu creio no Deus que ainda faz miagres.
+  depth: 3
+- author: Siomara Pereira
+  date: 24/05/2016 de 08:22
+  content: Simplesmente maravilhoso!!! Esta é a melhor receita para termos sabedoria
+    como mães!!! Parabéns Michelle!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:56
+  content: Obrigada pelo carinho e apoio de sempre tia Siomara! Te amo!
+  depth: 2
+- author: Lu
+  date: 24/05/2016 de 12:55
+  content: Lindo post amiga
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:56
+  content: Obrigada amiga Lu, que Deus te abençoe!
+  depth: 2
+- author: Eliane
+  date: 24/05/2016 de 13:00
+  content: Glórias a Deus!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:57
+  content: Amém Eliane! Obrigada pelo carinho.
+  depth: 2
+- author: ANA CAROLINE DE DEUS NASCIMENTO
+  date: 24/05/2016 de 15:40
+  content: Quão grande é o meu Deusssss , perfeito Michele . Glória a Deus !
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:21
+  content: Com certeza Carol!!! Deus é maravilhoso, sempre!!!
+  depth: 2
+- author: Amanda Ramos
+  date: 24/05/2016 de 16:48
+  content: Michele, isso foi de arrepiar. Nossa q emoção!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:21
+  content: Obrigada Amanda, realmente foi uma emoção gigantesca. Beijos.
+  depth: 2
+- author: Maíra Passos Camargos
+  date: 24/05/2016 de 16:58
+  content: Que lindo post! Emocionante! Deus é mesmo maior! 🙂
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:22
+  content: Obrigada Maíra! Deus é maravilhoso.
+  depth: 2
+- author: Lane Magalhaes
+  date: 24/05/2016 de 18:06
+  content: Michelle querida,Diante de tamanha demonstração de amor incondicional,
+    gratidão e FÉ, resta-me reverência-la.Você, é a MAIOR prova que somente a mães
+    iluminadas e espiritualmente evoluídas Deus confia filhos especiais.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:23
+  content: Obrigada Lane querida, sei que é uma mãe leoa pelos seus filhos. Que Deus
+    nos capacite a cada dia. Muito obrigada pelo carinho de sempre. Beijos
+  depth: 2
+- author: Tininha Fleury Campos
+  date: 24/05/2016 de 20:23
+  content: Mi, que benção foi reencontrar vocês! Que coisa mais linda o que escreveu…
+    Também me sinto acolhida por Deus a todo instante, mas senti que posso me aproximar
+    ainda mais depois do que li.Que continuemos firmes na luta com nossos presentes!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:26
+  content: Tininha, foi uma benção te reencontrar também, e saber que Deus te deu
+    uma missão tão bonita quanto a minha. Que Deus nos fortaleça, nos capacite e vá
+    sempre à frente, iluminando nossos caminhos. Conte comigo! Beijos.
+  depth: 2
+- author: Mira
+  date: 25/05/2016 de 07:46
+  content: Lindo, Mi! Verdadeiramente INSPIRADOR!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:26
+  content: Obrigada Mira!!!! Beijos.
+  depth: 2
+- author: Deia Tomaz
+  date: 25/05/2016 de 21:32
+  content: O que seria de nós sem a presença do nosso Deus? Ele esta conosco e não
+    nos desampara jamais!E esse audio? Como me emocionei quando ouvi!! Sei que todas
+    as nossas orações estão sendo ouvidas e veremos a recuperação completa do Enzo!
+    Seu testemunho ajudara muitas mães! Deus te honrará!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:29
+  content: Amém!!!! Eu creio Deia. Obrigada pelo seu carinho. Deus é maravilhoso
+  depth: 2
+- author: Maria
+  date: 31/10/2017 de 16:52
+  content: Amém! Eu como mãe creio no desenvolvimento do meu filho! Gratidão!
+  depth: 1
+- author: Daniele
+  date: 26/12/2019 de 16:05
+  content: Estou na suspeita que minha filha de 1 ano e 8 meses é autista. Meu coração
+    está muito angustiado e não consigo nem comer…ler esse post, enche meu coração
+    de alegria e esperanças.
+  depth: 1
+- author: Karla
+  date: 07/05/2020 de 18:25
+  content: Estou passando por isso deram o laudo mais eu não aceito queria muito poder
+    conversar c vc estou desesperada não sei por onde começarSe puder me passa seu
+    contato e-mailPara entrar emContato por favoooor 🙏🏼 Ajude uma mae abalada
+  depth: 1
+- author: Karina Silva
+  date: 08/03/2021 de 01:21
+  content: Michelle, não te conheço, mas seu post me tocou profundamente. Meu filho
+    tem 3 anos e diagnóstico de TEA há pouco mais de 1 ano. Ouvir o Enzo cantando
+    me encheu de alegria e esperança. Deus abençoe vocês e guie o desenvolvimento
+    do Enzo para se tornar um grande homem. Obrigada por compartilhar sua história
+    e nos inspirar e fortalecer. Um beijo grande.
+  depth: 1
+- author: Michelle Carvalho
+  date: 07/04/2022 de 19:16
+  content: Muito obrigada pela mensagem tão carinhosa, que Deus abençoe seu percurso,
+    acalmando seu coração nos dias difíceis e transbordando de dias bons
+  depth: 2
 ---
 
 Converso diariamente com mulheres que me procuram pedindo diferentes tipos de ajuda, mães com filhos que possuem necessidades especiais (não só TEA), mães que ainda estão em fase de investigação do diagnóstico, mães com filhos neurotipicos (normais) e dificuldades em se comunicarem com a criança, mães com diversos tipos de demanda, mães de toda faixa etária, mulheres tão diferentes umas das outras, mas com uma coisa em comum, o amor incondicional pelo filho!  

@@ -7,6 +7,89 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/06/image-1.jpg
 description: Janeiro de 2016, entrou em vigor a LBI (Lei Brasileira de Inclusão),
   também conhecida como Estatuto
+comments:
+- author: Leonidia Lopes
+  date: 17/06/2016 de 13:09
+  content: Como é grande o meu amor por vocês!Deus no comando,minha filha! Você é
+    guerreira e vai vencer todas as batalhas.Seu amor pelo Enzo é lindo!Tenho muito
+    orgulho de você!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 26/07/2016 de 18:31
+  content: Obrigada mãezinha! Te amo muito
+  depth: 2
+- author: Lane Magalhaes
+  date: 17/06/2016 de 18:48
+  content: Michelle minha querida,Felizmente há muito mais pessoas comprometidas que
+    descomptometidas, humanas que desumanas…. E para todas que praticam os ensinamentos
+    do Mestre as leis são desnecessárias, porque todas as leis estão inclusas no maior
+    de todos os mandamentos , Amar a Deus sobre todas as coisas e ao próximo como
+    a ti mesmo.Sua fé é contagiante!Bjs no coração.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 26/07/2016 de 18:32
+  content: Obrigada pelo seu apoio e carinho Lane!
+  depth: 2
+- author: Flavianne Carvalho
+  date: 17/06/2016 de 19:02
+  content: O amor é  mesmo a verdadeira forma de se aprender a não excluir! Você,
+    mais uma vez, foi perfeita em suas colocações! Como é maravilhoso presenciar o
+    seu amor e ver de perto o quanto ele tem transformado a vida do pequetucho! Sua
+    atitude incansável e a forma linda como você encarou o desafio que Deus lhe deu
+    tem feito toda diferença, não só na vida do Enzo, mas na vida de todos que têm
+    o privilégio de estar ao seu lado.  Desafios são vencidos por aqueles que não
+    temem; por aqueles que, ao invés de murmurar e lamentar, têm uma atitude de gratidão,
+    de fé, de amor e de absoluta certeza que, não importa o que aconteça, nem como
+    aconteça, Deus está no controle de tudo e a vitória é certa. O impossível é apenas
+    uma questão de ponto de vista! E o seu, o nosso é que TUDO É POSSÍVEL PARA AQUELE
+    QUE AMA E CRÊ!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 26/07/2016 de 18:33
+  content: Obrigada minha irmã taaaaao amada, realmente creio num Deus que faz possível
+    TODAS as coisas.Você é parte fundamental nas nossas vidas. Te amo muito
+  depth: 2
+- author: Claudia
+  date: 17/06/2016 de 19:06
+  content: Lindo texto, Michelle! A inclusão é um trabalho para toda a vida, e não
+    só de pessoas com alguma deficiência aparente. De fato envolve educação em sentido
+    amplo, valores, cultura. Reflete-se no mercado de trabalho. É muito difícil aceitar
+    o outro em qualquer circunstância, em especial quando a gente percebe a diferença.
+    Eh mais fácil rotular as pessoas e aí pode ensejar aquelas unanimidades burras,
+    que a coletividade cegamente adora. Mas quando se tem uma família sólida, toda
+    insegurança se esvai e a gente se afasta naturalmente das pessoas que nos excluem
+    ou que não valem a pena, não é mesmo? Fiquei curiosa pra saber se vc mencionou
+    a Luíza!!! Fiquei na dúvida se ela insiste no “oi” ou se vai de mãos dadas com
+    o Enzo…😍🤔😊
+  depth: 1
+- author: MIchelle Carvalho
+  date: 26/07/2016 de 18:35
+  content: Obrigada Claudia, tenho certeza que Enzo e Luiza serão sempre grandes amigos.
+    Parabéns por fazer a verdadeira inclusão dentro da sua casa. Luiza é uma princesa
+    e por andar de mãos dadas com Enzo
+  depth: 2
+- author: Luiz Fernando
+  date: 18/06/2016 de 15:56
+  content: Simplesmente sensacional !
+  depth: 1
+- author: MIchelle Carvalho
+  date: 26/07/2016 de 18:36
+  content: Obrigada pelo carinho Luiz Fernando
+  depth: 2
+- author: Alessandra Ferreira
+  date: 08/07/2016 de 13:15
+  content: Poxa, que bom saber que ainda existem pessoas de bom coração, que não tem
+    preconceito e que trata a criança sem diferença, pois é só dar amor, meu filho
+    estuda em um colégio que infelizmente não está dando certo, só recebo reclamações,
+    não é estimulado, isso é muito triste.Fico sem chão 🙁
+  depth: 1
+- author: MIchelle Carvalho
+  date: 26/07/2016 de 18:55
+  content: Oi Alessandra, infelizmente muitas escolas ainda não se adequaram, muito
+    menos qualificaram seus profissionais.A lei Berenice Piana rege alguns direitos
+    dos autistas, dentre eles algumas obrigações devidas à escola. Acho que vale a
+    pena consultar um advogado, é direto do seu filho ser estimulado da forma correta.
+  depth: 2
 ---
 
 Janeiro de 2016, entrou em vigor a LBI (Lei Brasileira de Inclusão), também conhecida como Estatuto da pessoa com Deficiência (Lei 13.146/2015), que dá condições de igualdade às pessoas enquadradas como deficientes físicos, dentre elas, os portadores do transtorno do espectro autista (TEA).  

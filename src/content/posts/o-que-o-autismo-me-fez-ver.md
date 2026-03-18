@@ -7,6 +7,20 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2019/03/girl-1857703_1280.jpg
 description: Eu ouvi seu primeiro choro, vi seu primeiro sorriso, ouvi sua primeira
   palavra, e o equilibrei nos s
+comments:
+- author: Rebeca
+  date: 30/05/2019 de 21:20
+  content: Nossa que lindo!! Chorei muito rs…
+  depth: 1
+- author: Michelle Carvalho
+  date: 12/07/2019 de 22:31
+  content: 💙
+  depth: 2
+- author: Barbara
+  date: 27/11/2021 de 13:41
+  content: Impossível não se emocionar.Chorei, pois estou sentindo isso tudo!Mas também
+    penso assim, o dia seguinte será melhor.
+  depth: 2
 ---
 
 Eu ouvi seu primeiro choro, vi seu primeiro sorriso, ouvi sua primeira palavra, e o equilibrei nos seus primeiros passinhos. Eu fiquei acordada a noite inteira durante a primeira febre e dormi  2 anos com a babá eletrônica no ouvido.

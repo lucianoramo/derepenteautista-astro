@@ -6,6 +6,58 @@ categories:
 author: Michelle Carvalho
 image: /wp-content/uploads/2016/11/image.jpg
 description: Já disse aqui em outro post
+comments:
+- author: LEONIDIA
+  date: 08/11/2016 de 16:49
+  content: Filha amada!Como me emociono quando leio seus posts.Choro de ver sua garra,sua
+    determinação e tanto amor pelo nosso amor maior,o Enzo.So sinto não poder estar
+    sempre perto de vocês.Mas saiba que meu coração está sempre com vocês.Meu amor
+    é maior que o infinito.Te Amo demais! Você é luz,minha estrela,meu sol,meu viver.Agradeço
+    a Deus todos os dias por você ser essa guerreira.Tenho muito orgulho de você!
+  depth: 1
+- author: Michelle Carvalho
+  date: 09/11/2016 de 19:43
+  content: Obrigada mãezinha, também te amo muuuuuito e essa garra aprendi muito com
+    você, sempre tão firme, determinada, cheia de alegria e acima de tudo cheia de
+    amor.Que Deus nos abençoe e estaremos sempre juntas, além do final feliz.
+  depth: 2
+- author: Rafael Salles
+  date: 08/11/2016 de 19:54
+  content: Carta emocionante!! Como sempre prima, lindas palavras… Que essa linda
+    jornada que é a vida, continue  e seja sempre cheia de novas conquistas, seja
+    desafiadora porém suave….
+  depth: 1
+- author: Michelle Carvalho
+  date: 09/11/2016 de 19:40
+  content: Muito obrigada Rafa, que seja linda para todos nós!!! Amo você.
+  depth: 2
+- author: Michelle Carvalho
+  date: 13/11/2016 de 19:29
+  content: Obrigada Rafa, pelo carinho e apoio de sempre.
+  depth: 2
+- author: Sylvia Suely Aguiar
+  date: 09/11/2016 de 13:32
+  content: Que lindo tudo isso que acabei de ler , pois eu tambem tenho um grande
+    amor que nasceu do meu coração e aos exatos 1 ano e 4 meses descobri que ele era
+    altista , de lá pra cá correria direto e cuidados Amor sem fronteiras não só da
+    minha parte como da familia toda , Meu Leon Francisco ,um menino lindo e maravilhoso
+    que ontem dia 8 de novembro 2016 completou 17 anos e a luta continua mas agora
+    é lutando contra o preconceito mas com todo o nosso amor chegaremos lá !!!! um
+    grande e carinhoso abraço pra vcs e digo que foi muito bom compartilhar esse momento
+    ! obrigada !
+  depth: 1
+- author: Michelle Carvalho
+  date: 09/11/2016 de 19:40
+  content: Obrigada pelo carinho Sylvia. Deus abençoe vocês.
+  depth: 2
+- author: Eliane
+  date: 10/11/2016 de 09:26
+  content: Lindo, Michele!! 😘
+  depth: 1
+- author: Michelle Carvalho
+  date: 13/11/2016 de 19:29
+  content: Obrigada Eliane!
+  depth: 2
 ---
 
 Já disse aqui em outro post “[***Cartas para Enzo***](/cartas-para-enzo/)” que quando meu pequeno tinha 1 aninho, criei um e-mail para ele, e mando cartas contando das suas evoluções e todo o meu infinito amor, e hoje, eu gostaria de compartilhar mais uma dessas cartas com vocês. Hoje meu filho, minha herança preciosa do Senhor, faz 4 aninhos:

@@ -7,6 +7,136 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/05/image-3.jpg
 description: Educar crianças não é tarefa fácil para nenhuma família. Alimentar, vestir,
   dar banho, levar aqui e
+comments:
+- author: Leonidia Lopes
+  date: 19/05/2016 de 13:03
+  content: Como é grande o meu amor por vocês! Parabéns minha filha!Tenho muito orgulho
+    de você. Continue essa rocha,essa fortaleza e acima de tudo com essa imensa fé
+    em Deus.Ele é fiel.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:28
+  content: Obrigada mãezinha, meu amor por você também é imenso! Deus é maravilhoso!
+  depth: 2
+- author: Alexandra Lizardo
+  date: 19/05/2016 de 13:25
+  content: Verdade Michelle muito boas as dicas a gente vai aprendendo e observando
+    os nossos erros também obrigado bjs
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:29
+  content: Obrigada Xandra!
+  depth: 2
+- author: Maíra
+  date: 19/05/2016 de 14:21
+  content: Pima, mais um belo texto! Parabéns! Educar deve ser mesmo muito difícil…
+    Nem me imagino fazendo isso!Considero esses três preceitos essenciais a qualquer
+    relação… O mundo seria tão melhor se todos tivessem o respeito, a confiança e
+    a disciplina como guias da sua vida…
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:30
+  content: Obrigada pima, tenho certeza que será uma mãe fantástica! Beijos
+  depth: 2
+- author: Andréia Renzo
+  date: 19/05/2016 de 18:19
+  content: Como tenho orgulho de vc e como é prazeroso ler suas experiências. Elas
+    servem para todas as mães!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:30
+  content: Obrigada pelo carinho Renzo! Beijos
+  depth: 2
+- author: SIOMARA PEREIRA
+  date: 19/05/2016 de 19:19
+  content: Muito bom Michele. educar filhos é um ministério e filhos são bençãos que
+    o Senhor nos confiou para fazermos deles homens e mulheres de caráter e fé!! Continue
+    assim e colherá os frutos de tanta dedicação.que deus continue te capacitando
+    e dando direção!!!Orgulhosa de vc!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:33
+  content: Amém tia! Você fez isso com muito louvor! Criou e educou dois homens de
+    caráter e fé! Que Deus me capacite para fazer o mesmo!
+  depth: 2
+- author: alvaro lopes
+  date: 19/05/2016 de 22:19
+  content: Muito lindo sobrinha querida. Que Nosso Senhor continue te capacitando
+    mais e mais. A vitória é certa, em nome de JESUS. O ENZO É UM MILAGRE.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:34
+  content: Amém tio! Eu creio na vitória, sempre! Beijos
+  depth: 2
+- author: ANA CAROLINA
+  date: 19/05/2016 de 22:45
+  content: Uauuuu!!!!! Que lição!! Como preciso aprender com vc Michelle. Admirada!!
+    uauuuu!!!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:41
+  content: Obrigada Carol, você é uma mãe maravilhosa, eu que aprendo muito com você!
+  depth: 2
+- author: Flávia
+  date: 19/05/2016 de 23:19
+  content: Maravilhoso esse texto.Parabens Michele estou aprendendo mt c vc.
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:41
+  content: Obrigada pelo carinho Flávia, que Deus abençoe
+  depth: 2
+- author: Rafael Salles
+  date: 20/05/2016 de 13:54
+  content: Parabéns prima… você está fazendo um ótimo trabalho… com a educação do
+    Enzo… esse é um método que prático também… Vc é um dos exemplos que tenho para
+    educar meu filhote ….Espero ter discernimento e conseguir fazer da melhor maneira….
+    aqui em casa !!!Orgulho de vc!!!😉
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:43
+  content: Obrigada Rafa, tenho certeza que conseguirá, você é um paizão.Beijos
+  depth: 2
+- author: Ana Luisa
+  date: 20/05/2016 de 15:29
+  content: Que vontade de gritar com esse texto!!!! Queria ter escrito!!!!! rs!  Haim
+    Ginnot estaria altamente orgulhoso de você,!!!! rs Amo vc!
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:44
+  content: Obrigada Ana, minha amiga tão querida! Também amo vc!
+  depth: 2
+- author: ANA CAROLINE DE DEUS NASCIMENTO
+  date: 20/05/2016 de 17:38
+  content: Michele,  estou acompanhando todos os posts e gostaria de lhe parabenizar.Eu
+    me emociono, todas as vezes que leio e venho aprendendo muito.Sempre achei você
+    uma mãe fantástica, lembro quando Enzo estava bem pequeno e você me contou que
+    vocês oravam todos os dias, eu te admirei ainda mais a partir daquele momento.Continue
+    firme , Deus te deu um grande presente e você com todas as experiências nos orienta
+    a cada dia de forma uma muito prazerosa. Ler o que você escreve é muito bom. Um
+    bju enorme !
+  depth: 1
+- author: MIchelle Carvalho
+  date: 24/05/2016 de 14:45
+  content: Obrigada pelo carinho Carol! Saudade de você! Beijos. Deus te abençoe
+  depth: 2
+- author: ANA CAROLINE DE DEUS NASCIMENTO
+  date: 24/05/2016 de 16:47
+  content: Muita saudade, parabéns !
+  depth: 3
+- author: Deia Tomaz
+  date: 25/05/2016 de 21:22
+  content: Adorei as dicas! Essa de contar ate 10 no parquinho vou adotar, pq tem
+    dias que o João da um certo trabalho pra sair do parquinho…Amando todos os textos!Bjos
+  depth: 1
+- author: MIchelle Carvalho
+  date: 05/06/2016 de 21:28
+  content: Fico muito feliz que esteja gostando Deia, obrigada pelo apoio. Beijos
+  depth: 2
+- author: torneira mangueira de arrancamento cobre
+  date: 03/07/2021 de 05:05
+  content: excelente, bem como notável blog. Eu realmente quero agradecer a você,
+    pornos oferecer melhores detalhes.
+  depth: 1
 ---
 
 Educar crianças não é tarefa fácil para nenhuma família. Alimentar, vestir, dar banho, levar aqui e ali é quase automático, mas educar… Nossa, como é difícil!  

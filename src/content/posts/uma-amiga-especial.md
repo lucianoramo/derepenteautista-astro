@@ -7,6 +7,50 @@ author: Michelle Carvalho
 image: /wp-content/uploads/2016/10/image.jpg
 description: O autismo regressivo é aquele que a criança se desenvolve normalmente
   até uma certa idade, e depois
+comments:
+- author: LEONIDIA
+  date: 09/10/2016 de 10:23
+  content: Que lindo filha! Realmente Deus tem colocado pessoas especiais na sua vida
+    e na vida do Enzo.Sou muito feliz e agradeço a ele todos os dias por isso.Amo
+    vocês!
+  depth: 1
+- author: Flavy Carvalho
+  date: 09/10/2016 de 10:26
+  content: Muito lindo você relatar isso! Essa linda menina é mesmo muito especial
+    e um exemplo de criança temente a Deus, cheia de valores e amor!! Que o mundo
+    se encha de crianças como ela …. E de pais como os dela, que ensinam todos os
+    dias qual é a maior de todas as riquezas!! 💞💞💞💞💞💞💞💞💞
+  depth: 1
+- author: Cristina Munck
+  date: 09/10/2016 de 10:36
+  content: Amigos verdadeiros principalmente crianças, são anjos de Deus awui entre
+    nós.  Deus é poderoso o tempo todo.
+  depth: 1
+- author: Ana Luisa
+  date: 09/10/2016 de 10:44
+  content: Relato lindo… Testemunho edificante…
+  depth: 1
+- author: Maria Luiza
+  date: 09/10/2016 de 15:21
+  content: É impossível não se emocionar! Michelle participei deste período de vigília
+    na igreja e realmente Deus e um Deus de milagres e o Enzo será curado pelo seu
+    amor e pelo sangue de Jesus que tem todo o poder!
+  depth: 1
+- author: Lane Magalhaes
+  date: 09/10/2016 de 19:29
+  content: Michelle,Seu relato nos traz a certeza, que Deus nos abençoa sempre com
+    Anjos de Luz vestidos de seres humanos.
+  depth: 1
+- author: Andreia Tomaz
+  date: 20/10/2016 de 12:56
+  content: Que lindo texto!Tive um pastor que dizia que crianças tem acesso privilegiado
+    ao trono do Pai… Certamente Deus tem ouvido e acolhido as orações dela tb!Fiquei
+    feliz em ver o Enzo no feriado! Como ele esta bem! Deus abençoe demais vcs!!!
+  depth: 1
+- author: Patricia
+  date: 15/11/2016 de 20:34
+  content: Chorei aqui.. lindo relato.
+  depth: 1
 ---
 
 O autismo regressivo é aquele que a criança se desenvolve normalmente até uma certa idade, e depois começa a perder habilidades importantes, principalmente habilidades sociais, esse foi o caso do meu filho, como já havia falado anteriormente no post [“Autismo Regressivo”](/2016/04/05/autismo-regressivo/).  
