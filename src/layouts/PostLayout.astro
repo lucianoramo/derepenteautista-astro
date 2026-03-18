@@ -1,0 +1,72 @@
+---
+import Base from './Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Sidebar from '../components/Sidebar.astro';
+import CommentList from '../components/CommentList.astro';
+
+export interface Props {
+  title: string;
+  date: Date;
+  categories: string[];
+  image?: string;
+  description?: string;
+  author?: string;
+  comments?: Array<{ author: string; date: string; content: string; depth: number }>;
+}
+
+const {
+  title,
+  date,
+  categories,
+  image,
+  description,
+  author = 'Michelle Carvalho',
+  comments = [],
+} = Astro.props;
+
+const categorySlugMap: Record<string, string> = {
+  'Blog': 'blog',
+  'Dicas úteis': 'dicas-uteis',
+  'História': 'historia',
+};
+---
+<Base title={title} description={description} image={image}>
+  <Header />
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <div class="lg:grid lg:grid-cols-[1fr_280px] lg:gap-8">
+      <main>
+        {image && (
+          <img
+            src={image}
+            alt={title}
+            class="w-full rounded-lg mb-6 object-cover aspect-video"
+            loading="eager"
+          />
+        )}
+        <h1 class="font-heading text-3xl font-bold text-dark mb-3">{title}</h1>
+        <p class="text-sm text-muted mb-6 flex flex-wrap gap-4">
+          <span><i class="far fa-user mr-1"></i>{author}</span>
+          <span><i class="far fa-clock mr-1"></i>{date.toLocaleDateString('pt-BR')}</span>
+          <span>
+            <i class="far fa-folder mr-1"></i>
+            {categories.map((cat, i) => (
+              <>
+                <a href={`/category/${categorySlugMap[cat] ?? cat.toLowerCase()}`} class="hover:text-accent transition-colors">{cat}</a>
+                {i < categories.length - 1 && ', '}
+              </>
+            ))}
+          </span>
+        </p>
+        <article class="prose prose-lg max-w-none prose-a:text-accent prose-headings:font-heading">
+          <slot />
+        </article>
+        <CommentList comments={comments} />
+      </main>
+      <div class="mt-10 lg:mt-0">
+        <Sidebar />
+      </div>
+    </div>
+  </div>
+  <Footer />
+</Base>

@@ -1,0 +1,66 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  date: Date;
+  image?: string;
+  description?: string;
+  author?: string;
+  categories?: string[];
+}
+
+const {
+  title,
+  slug,
+  date,
+  image,
+  description,
+  author = 'Michelle Carvalho',
+  categories = [],
+} = Astro.props;
+
+const categorySlugMap: Record<string, string> = {
+  'Blog': 'blog',
+  'Dicas úteis': 'dicas-uteis',
+  'História': 'historia',
+};
+---
+<article class="bg-white rounded-lg border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+  {image && (
+    <a href={`/${slug}`}>
+      <img
+        src={image}
+        alt={title}
+        class="w-full object-cover aspect-video"
+        loading="lazy"
+      />
+    </a>
+  )}
+  <div class="p-4">
+    <p class="text-xs text-muted mb-2 flex gap-3">
+      <span><i class="far fa-user mr-1"></i>{author}</span>
+      <span><i class="far fa-clock mr-1"></i>{date.toLocaleDateString('pt-BR')}</span>
+    </p>
+    <h2 class="font-heading text-xl font-semibold text-dark mb-2 leading-tight">
+      <a href={`/${slug}`} class="hover:text-accent transition-colors">{title}</a>
+    </h2>
+    {description && (
+      <p class="text-sm text-muted line-clamp-3 mb-4">{description}</p>
+    )}
+    {categories.length > 0 && (
+      <div class="flex flex-wrap gap-1 mb-4">
+        {categories.map(cat => (
+          <a
+            href={`/category/${categorySlugMap[cat] ?? cat.toLowerCase()}`}
+            class="text-xs bg-surface text-muted border border-gray-200 rounded-full px-2 py-0.5 hover:bg-accent hover:text-white hover:border-accent transition-colors"
+          >
+            {cat}
+          </a>
+        ))}
+      </div>
+    )}
+    <a href={`/${slug}`} class="text-sm font-semibold text-accent hover:underline">
+      Ler mais →
+    </a>
+  </div>
+</article>

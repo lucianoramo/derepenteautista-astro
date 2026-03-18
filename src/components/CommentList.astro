@@ -1,0 +1,39 @@
+---
+interface Comment {
+  author: string;
+  date: string;
+  content: string;
+  depth: number;
+}
+
+interface Props {
+  comments: Comment[];
+}
+
+const { comments } = Astro.props;
+---
+{comments.length > 0 && (
+  <section class="mt-10 pt-8 border-t border-gray-200">
+    <h3 class="font-heading text-xl font-semibold text-dark mb-6">
+      <i class="far fa-comments mr-2 text-accent"></i>
+      {comments.length} Comentário{comments.length !== 1 ? 's' : ''}
+    </h3>
+    <ol class="space-y-4">
+      {comments.map((comment, i) => (
+        <li
+          class={`bg-surface rounded-lg p-4 border border-gray-200 ${comment.depth > 1 ? 'ml-8' : ''}`}
+        >
+          <div class="flex items-center gap-2 mb-2">
+            <span class="font-semibold text-sm text-dark">{comment.author}</span>
+            {comment.date && (
+              <span class="text-xs text-muted">
+                <i class="far fa-clock mr-1"></i>{comment.date}
+              </span>
+            )}
+          </div>
+          <p class="text-sm text-dark leading-relaxed">{comment.content}</p>
+        </li>
+      ))}
+    </ol>
+  </section>
+)}
