@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const content = `
+<p>Quando eu era criança, aprendendo a andar de bicicleta, desequilibrei e caí numa roseira, ouvi um berro familiar, era a voz do meu pai que veio correndo me socorrer. Eu, muito medrosa, assustada e sentindo dor por causa dos espinhos, pedi que ele os tirasse com sopro e não com as mãos, meu pai, pacientemente e com um amor gigantesco, soprou um por um com força (claro que tinha uma ajudinha das mãos sem eu perceber) e os tirou. Foi meu pai que dormiu de mãos dadas comigo quando tive medo de morrer e quando tive minha primeira decepção amorosa. Foi ele que me levou à cama todas as noites, até eu ficar adulta, me deu um beijo de boa noite e me cobriu. Foi meu pai que me ensinou que o maior tesouro de uma pessoa é seu coração, e não sua conta bancária. Foi meu pai que sempre disse que daria a vida por mim e é ele quem me diz todos dias "também te amo muito filhotinha"!</p>
+<p>Tenho recebido diversos depoimentos de mães, relatando que depois do diagnóstico, os pais abandonaram seus filhos, alegando que não possuem estrutura para suportar toda demanda de uma criança com necessidades especiais (não só crianças com transtorno do espectro autista). E com o exemplo de pai que tenho, fica muito difícil compreender.</p>
+<p>Procurei fazer um texto livre de julgamentos, mas confesso que está complicado. Talvez esses homens não merecessem um título tão nobre: PAI!!!</p>
+<p>Talvez não mereçam o tesouro precioso que Deus lhes presenteou, nem desfrutar de todas as vitórias alcançadas.</p>
+<p>Talvez não tenha lhes ocorrido que as mães também não foram preparadas para tal desafio, mas juntaram seus cacos, suas forças e fôlego, para que os filhos tivessem a melhor qualidade de vida possível, deixando para chorarem suas frustrações depois que os filhos dormiram. Talvez não saibam a importância de um verdadeiro PAI na vida de seu filho, e nunca verão os filhos imitarem seus gestos, seu jeito de falar, de andar, de olhar…</p>
+<p>Perguntei para quatro PAIS de diferentes idades, com filhos de faixa etária diferentes, em fases diferentes da vida, mas que são todos, para mim, exemplos de PAI com todas as letras. Amorosos, amigos, presentes, firmes, referência para seus filhos:</p>
+<p>– Para você, o que é ser pai?</p>
+<p>E as respostas foram:</p>
+<p>PAI de filhos adultos:</p>
+<p>"Ser pai é ser um homem distinto, é ser nobre".</p>
+<p>PAI de filhos adolescentes:</p>
+<p>"Ser pai é sonhar o sonho dos filhos, mesmo que seja necessário me privar dos meus próprios sonhos e vontades!".</p>
+<p>PAI de um lindo bebê:</p>
+<p>"…Ser pai, estou aprendendo a cada dia. Tenho um grande exemplo, que sempre sigo, uma gratidão sem medidas pelo meu pai, por tudo que ele me ensinou, pela forma como conduziu minha educação e evolução. Quero levar esta minha jornada como pai da melhor maneira, estar sempre presente. Ter a total confiança do meu filho, ter liberdade mútua, saber como passar valores que julgo importantes, saber educar, guiar a formação dele como pessoa.</p>
+<p>Realmente esta é uma pergunta difícil de responder. Pois a mente e o coração entram em um turbilhão de ideias e sentimentos.<br>
+É um aprendizado a cada momento, ser pai é uma dadiva. Acho que talvez daqui uns 30 anos minha resposta terá mudado um pouco pois não seria já tão "verde", mas para um pai cada momento é único. O tempo passa ter outro tipo de valor, além do famoso "Tempo é Dinheiro"<br>
+É na verdade um amor pleno, quero ver cada instante do meu pequeno, quero sentir cada olhar, cada toque, todos os sorrisos e choros, todas as vitórias e derrotas, todos os sonhos e realizações. Minha vida é para ele!".</p>
+<p>E claro, não podia faltar, PAI de uma criança com TEA, o PAI do Enzo:</p>
+<p>"Ser Pai é sem duvida especial. É exatamente aquela frase que escutávamos de todos aqueles que já eram pais e não dávamos a devida atenção: "Você vai ver quando for pai". Quem não é pai ainda pode até achar que entendeu, mas ser pai não é algo feito para ser entendido, mas para ser sentido. E para senti-lo é preciso experimentar, viver. É uma benção, o amor em sua essência, indescritível, desafiador, emocionante, especial. Exponencialmente mais especial ser pai de um anjo, enviado especialmente por Deus, com um propósito definido por Ele, de semear a alegria e o amor incondicional em nossas vidas e muitos ao redor."</p>
+<p>Que essas respostas sirvam de inspiração para tantos homens se tornarem efetivamente PAIS, que o amor que transborda das palavras de cada um desses pais, contagie outros tantos. Homens se conscientizem que ser PAI vai muito além de pagar pensão, ou a escola, ou o que quer que seja que resolva com dinheiro.<br>
+Não existe ex filho!<br>
+Não existe "se não for assim, não quero".<br>
+O que existe é o amor incondicional de uma criança pelo seu pai, mesmo que ela não saiba demonstrar, ou corresponder da forma convencional (ainda que esse pai não faça por merecer).<br>
+O que existe é uma criança que precisa ser amada, independente se ela tem os olhos verdes, castanhos, pretos ou não enxergue.<br>
+O que existe, são crianças que precisam de um pai que as ajude a entender o mundo ao seu redor, e não um pai que as tire do seu mundo.</p>
+`;
+---
+<Base title="Sobre PAI!!!" description="Quando eu era criança, aprendendo a andar de bicicleta, desequilibrei e caí numa roseira, ouvi um berro familiar, era a voz do meu pai que veio correndo me socorrer.">
+  <Header />
+  <main class="max-w-3xl mx-auto px-4 py-8">
+    <img src="/wp-content/uploads/2016/09/image-660x330.jpg" alt="Sobre PAI!!!" class="w-full rounded-lg mb-6" />
+    <h1 class="text-3xl font-bold text-dark mb-6">Sobre PAI!!!</h1>
+    <div class="prose prose-lg max-w-none" set:html={content} />
+  </main>
+  <Footer />
+</Base>
