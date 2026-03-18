@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const sorted = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+const recentPosts = sorted.slice(0, 5);
+
+// Count per category
+const categoryCounts: Record<string, number> = {};
+for (const post of allPosts) {
+  for (const cat of post.data.categories) {
+    categoryCounts[cat] = (categoryCounts[cat] ?? 0) + 1;
+  }
+}
+
+const categorySlugMap: Record<string, string> = {
+  'Blog': 'blog',
+  'Dicas úteis': 'dicas-uteis',
+  'História': 'historia',
+};
+---
+<aside class="space-y-8">
+  <!-- Recent Posts -->
+  <div class="bg-surface rounded-lg p-4 border border-gray-200">
+    <h3 class="font-heading text-lg font-semibold text-dark mb-3 pb-2 border-b-2 border-accent">
+      Posts Recentes
+    </h3>
+    <ul class="space-y-3">
+      {recentPosts.map(post => (
+        <li class="text-sm">
+          <a href={`/${post.slug}`} class="text-dark hover:text-accent transition-colors font-medium leading-tight block">
+            {post.data.title}
+          </a>
+          <span class="text-muted text-xs">
+            <i class="far fa-clock mr-1"></i>
+            {post.data.date.toLocaleDateString('pt-BR')}
+          </span>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <!-- Categories -->
+  <div class="bg-surface rounded-lg p-4 border border-gray-200">
+    <h3 class="font-heading text-lg font-semibold text-dark mb-3 pb-2 border-b-2 border-accent">
+      Categorias
+    </h3>
+    <ul class="space-y-2">
+      {Object.entries(categoryCounts).map(([cat, count]) => (
+        <li>
+          <a
+            href={`/category/${categorySlugMap[cat] ?? cat.toLowerCase()}`}
+            class="text-sm text-dark hover:text-accent transition-colors flex justify-between"
+          >
+            <span>{cat}</span>
+            <span class="bg-accent text-white text-xs rounded-full px-2 py-0.5">{count}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</aside>
