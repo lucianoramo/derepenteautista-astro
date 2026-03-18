@@ -1,0 +1,71 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import Base from '../../../layouts/Base.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Sidebar from '../../../components/Sidebar.astro';
+import PostCard from '../../../components/PostCard.astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const POSTS_PER_PAGE = 10;
+  const CAT_LABEL: Record<string, string> = {
+    'blog': 'Blog',
+    'dicas-uteis': 'Dicas úteis',
+    'historia': 'História',
+  };
+
+  const allPosts = await getCollection('posts');
+  const cats = ['blog', 'dicas-uteis', 'historia'];
+
+  return cats.map(catSlug => {
+    const label = CAT_LABEL[catSlug];
+    const posts = allPosts
+      .filter(p => p.data.categories.includes(label))
+      .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+    return {
+      params: { cat: catSlug },
+      props: { posts: posts.slice(0, POSTS_PER_PAGE), totalPages: Math.ceil(posts.length / POSTS_PER_PAGE), catLabel: label },
+    };
+  });
+};
+
+const { posts, totalPages, catLabel } = Astro.props;
+const { cat } = Astro.params;
+---
+<Base title={`${catLabel} – De repente autista`}>
+  <Header />
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <h1 class="font-heading text-2xl font-bold text-dark mb-6 pb-2 border-b-2 border-accent">
+      {catLabel}
+    </h1>
+    <div class="lg:grid lg:grid-cols-[1fr_280px] lg:gap-8">
+      <main>
+        <div class="grid sm:grid-cols-2 gap-6">
+          {posts.map(post => (
+            <PostCard
+              title={post.data.title}
+              slug={post.slug}
+              date={post.data.date}
+              image={post.data.image}
+              description={post.data.description}
+              author={post.data.author}
+              categories={post.data.categories}
+            />
+          ))}
+        </div>
+        {totalPages > 1 && (
+          <div class="mt-8 text-right">
+            <a href={`/category/${cat}/2`} class="bg-accent text-white px-4 py-2 rounded text-sm font-semibold hover:bg-blue-500 transition-colors">
+              Próxima →
+            </a>
+          </div>
+        )}
+      </main>
+      <div class="mt-10 lg:mt-0">
+        <Sidebar />
+      </div>
+    </div>
+  </div>
+  <Footer />
+</Base>
