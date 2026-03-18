@@ -1,0 +1,35 @@
+---
+const navLinks = [
+  { href: '/nossa-historia', label: 'Nossa História' },
+  { href: '/a-autora', label: 'A Autora' },
+];
+---
+<header class="border-t-4 border-accent bg-white shadow-sm">
+  <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+    <a href="/" class="flex items-center gap-3">
+      <img
+        src="/wp-content/uploads/2023/03/1-e1680124941487.png"
+        alt="De repente autista"
+        class="h-12 w-auto"
+      />
+      <div class="hidden sm:block">
+        <p class="font-heading text-xl font-semibold text-dark leading-tight">De repente autista</p>
+        <p class="text-xs text-muted">Por Michelle Carvalho</p>
+      </div>
+    </a>
+    <nav>
+      <ul class="flex gap-6">
+        {navLinks.map(link => (
+          <li>
+            <a
+              href={link.href}
+              class="text-sm font-semibold text-dark hover:text-accent transition-colors"
+            >
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
