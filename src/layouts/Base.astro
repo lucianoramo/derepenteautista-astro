@@ -4,6 +4,9 @@ export interface Props {
   description?: string;
   image?: string;
   canonicalURL?: string;
+  type?: 'website' | 'article';
+  publishedTime?: Date;
+  author?: string;
 }
 
 const {
@@ -11,9 +14,13 @@ const {
   description = 'Blog sobre autismo e maternidade atípica por Michelle Carvalho',
   image = '/wp-content/uploads/2023/03/1-e1680124941487.png',
   canonicalURL = Astro.url.href,
+  type = 'website',
+  publishedTime,
+  author,
 } = Astro.props;
 
 const siteTitle = title === 'De repente autista' ? title : `${title} – De repente autista`;
+const imageAbsolute = image.startsWith('http') ? image : `https://derepenteautista.com.br${image}`;
 ---
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -27,10 +34,23 @@ const siteTitle = title === 'De repente autista' ? title : `${title} – De repe
     <!-- Open Graph -->
     <meta property="og:title" content={siteTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
+    <meta property="og:image" content={imageAbsolute} />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={type} />
     <meta property="og:site_name" content="De repente autista" />
+    <meta property="og:locale" content="pt_BR" />
+    {type === 'article' && publishedTime && (
+      <meta property="article:published_time" content={publishedTime.toISOString()} />
+    )}
+    {type === 'article' && author && (
+      <meta property="article:author" content={author} />
+    )}
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={siteTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageAbsolute} />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
