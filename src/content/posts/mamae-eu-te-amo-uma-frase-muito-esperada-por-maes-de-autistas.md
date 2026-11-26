@@ -4,7 +4,7 @@ date: '2016-12-13'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/12/image.jpg
+image: /images/posts/mamae-eu-te-amo-uma-frase-muito-esperada-por-maes-de-autistas/image.jpg
 description: Há um tempo atrás compartilhei na página
 comments:
 - author: Siomara Pereira

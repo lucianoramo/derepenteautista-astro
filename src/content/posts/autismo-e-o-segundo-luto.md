@@ -4,7 +4,7 @@ date: '2017-01-29'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2017/01/image-4.jpg
+image: /images/posts/autismo-e-o-segundo-luto/image-4.jpg
 description: A primeira vez que ouvi falar no segundo luto pós diagnóstico de TEA
   (transtorno do espectro autista
 comments:

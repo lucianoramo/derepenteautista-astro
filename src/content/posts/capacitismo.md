@@ -4,7 +4,7 @@ date: '2022-09-09'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2022/09/Screenshot_20220909-143430_Photos-1.jpg
+image: /images/posts/capacitismo/Screenshot_20220909-143430_Photos-1.jpg
 description: 'A definição dada pela Academia Brasileira de Letras ao capacitismo é:
   1. Discriminação e precon'
 ---

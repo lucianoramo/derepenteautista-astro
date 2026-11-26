@@ -22,7 +22,7 @@ const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
           {posts.map(post => (
             <PostCard
               title={post.data.title}
-              slug={post.slug}
+              slug={post.id}
               date={post.data.date}
               image={post.data.image}
               description={post.data.description}

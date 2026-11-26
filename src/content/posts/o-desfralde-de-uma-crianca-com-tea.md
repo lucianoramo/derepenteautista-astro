@@ -4,7 +4,7 @@ date: '2016-09-13'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/09/image-1-862x575.jpg
+image: /images/posts/o-desfralde-de-uma-crianca-com-tea/image-1-862x575.jpg
 description: Quando Enzo fez dois anos e meio comecei o desfralde, ainda não tínhamos
   o diagnóstico fechado, mas
 comments:

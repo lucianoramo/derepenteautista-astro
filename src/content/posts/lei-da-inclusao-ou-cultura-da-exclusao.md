@@ -4,7 +4,7 @@ date: '2016-06-16'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/06/image-1.jpg
+image: /images/posts/lei-da-inclusao-ou-cultura-da-exclusao/image-1.jpg
 description: Janeiro de 2016, entrou em vigor a LBI (Lei Brasileira de Inclusão),
   também conhecida como Estatuto
 comments:

@@ -5,7 +5,7 @@ categories:
 - Blog
 - História
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/image-2.jpg
+image: /images/posts/a-busca-por-respostas/image-2.jpg
 description: Só soube a força que tinha quando minha única alternativa foi ser forte,
   mas só tive a força que pre
 comments:

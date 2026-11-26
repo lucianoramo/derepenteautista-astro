@@ -4,7 +4,7 @@ date: '2016-11-16'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/11/image-1.jpg
+image: /images/posts/mascaras-de-oxigenio/image-1.jpg
 description: 'Esses dias estava no avião com meu filho e a comissária de bordo começou
   a dar os avisos: -Em caso d'
 comments:

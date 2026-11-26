@@ -30,7 +30,7 @@ export async function GET() {
 
   const staticUrls = STATIC_PAGES.map(p => url(p.url, undefined, p.priority, p.changefreq));
   const postUrls = sortedPosts.map(post =>
-    url(`/${post.slug}`, post.data.date.toISOString().split('T')[0], '0.9', 'monthly')
+    url(`/${post.id}`, post.data.date.toISOString().split('T')[0], '0.9', 'monthly')
   );
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

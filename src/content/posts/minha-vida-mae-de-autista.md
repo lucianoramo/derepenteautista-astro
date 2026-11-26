@@ -4,7 +4,7 @@ date: '2018-12-05'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2018/12/letters-1390463_1920.jpg
+image: /images/posts/minha-vida-mae-de-autista/letters-1390463_1920.jpg
 description: Lembro da expectativa na sala de parto, as mãos geladas esperando aquele
   chorinho de bebê para aquie
 comments:

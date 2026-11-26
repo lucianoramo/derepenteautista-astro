@@ -4,7 +4,7 @@ date: '2016-10-09'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/10/image.jpg
+image: /images/posts/uma-amiga-especial/image.jpg
 description: O autismo regressivo é aquele que a criança se desenvolve normalmente
   até uma certa idade, e depois
 comments:

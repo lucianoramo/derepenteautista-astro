@@ -4,7 +4,7 @@ date: '2016-03-31'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/image-6.jpg
+image: /images/posts/surpesa-azul/image-6.jpg
 description: A cor símbolo do autismo é o AZUL! Isso porque a cada 5 crianças autistas
   4 são MENINOS! No dia 02 d
 comments:

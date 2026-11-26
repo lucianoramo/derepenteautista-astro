@@ -4,7 +4,7 @@ date: '2016-04-05'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image.jpg
+image: /images/posts/autismo-regressivo/image.jpg
 description: Vou falar hoje a respeito do autismo regressivo, esse que a criança se
   desenvolve normalmente e de r
 comments:

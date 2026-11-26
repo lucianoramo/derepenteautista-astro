@@ -4,7 +4,7 @@ date: '2020-05-10'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/IMG_1484-e1458899484893.jpg
+image: /images/posts/dia-das-maes/IMG_1484-e1458899484893.jpg
 description: A função mais extraordinária que existe é a de mãe. Quando você segura
   seu filho nos braços pela pri
 ---

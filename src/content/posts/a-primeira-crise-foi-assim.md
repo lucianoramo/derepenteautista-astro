@@ -4,7 +4,7 @@ date: '2018-12-28'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2018/12/exhausted-1112456_640.jpg
+image: /images/posts/a-primeira-crise-foi-assim/exhausted-1112456_640.jpg
 description: 'Era um dia como outro qualquer, nossa rotina estava dentro do previsto:
   acordamos, tomamos café, ter'
 comments:

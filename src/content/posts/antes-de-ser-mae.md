@@ -4,7 +4,7 @@ date: '2021-02-11'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2021/02/people-2575946_1920.jpg
+image: /images/posts/antes-de-ser-mae/people-2575946_1920.jpg
 description: Sempre fui de intensidades, de imensos, de profundidade. Sempre detestei
   o morno e o tanto faz, me i
 comments:

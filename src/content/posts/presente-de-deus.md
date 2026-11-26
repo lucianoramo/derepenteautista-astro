@@ -5,7 +5,7 @@ categories:
 - Blog
 - História
 author: Luciano
-image: /wp-content/uploads/2016/03/IMG_1484-e1458899484893.jpg
+image: /images/posts/presente-de-deus/IMG_1484-e1458899484893.jpg
 description: Oi gente, meu nome é Michelle Carvalho, sou bacharel em Design de Ambientes
   e com muito orgulho sou
 comments:

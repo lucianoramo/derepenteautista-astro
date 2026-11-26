@@ -4,7 +4,7 @@ date: '2017-05-31'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2017/05/image.jpeg
+image: /images/posts/autismo-e-medif-minha-experiencia-pessoal/image.jpeg
 description: Sim! Consegui utilizar o MEDIF e vou compartilhar aqui minha experiência
   pessoal, complementando o p
 comments:

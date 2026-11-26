@@ -4,7 +4,7 @@ date: '2017-02-11'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2017/02/image-2.jpg
+image: /images/posts/autismo-e-os-beneficios-do-muay-thai/image-2.jpg
 description: Em minhas intermináveis pesquisas por uma melhor condição de vida, e
   maior desenvolvimento para meu
 comments:

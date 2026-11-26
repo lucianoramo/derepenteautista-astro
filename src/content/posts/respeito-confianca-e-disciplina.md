@@ -4,7 +4,7 @@ date: '2016-05-19'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/05/image-3.jpg
+image: /images/posts/respeito-confianca-e-disciplina/image-3.jpg
 description: Educar crianças não é tarefa fácil para nenhuma família. Alimentar, vestir,
   dar banho, levar aqui e
 comments:

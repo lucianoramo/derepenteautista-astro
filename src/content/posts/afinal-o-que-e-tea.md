@@ -4,7 +4,7 @@ date: '2016-04-09'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image-1.jpg
+image: /images/posts/afinal-o-que-e-tea/image-1.jpg
 description: TEA é a sigla para Transtorno do Espectro Autista, que como diz o nome,
   é um espectro imenso de um g
 comments:

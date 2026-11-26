@@ -4,7 +4,7 @@ date: '2020-10-26'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2020/10/green-2559003_1280.jpg
+image: /images/posts/quando-os-passos-sao-para-tras/green-2559003_1280.jpg
 description: Sim, eles existem e são muitos. Nem sempre as terapias funcionam na frequência
   e velocidade que gost
 comments:

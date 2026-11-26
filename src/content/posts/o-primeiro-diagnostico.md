@@ -5,7 +5,7 @@ categories:
 - Blog
 - História
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/image-1.jpg
+image: /images/posts/o-primeiro-diagnostico/image-1.jpg
 description: Já sentiram a sensação de perder o chão e o ar ao mesmo tempo? Foi o
   que aconteceu comigo nesse dia!
 comments:
