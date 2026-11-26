@@ -2,7 +2,7 @@ import { config, fields, collection } from '@keystatic/core';
 
 export default config({
   storage: { kind: 'cloud' },
-  cloud: { project: 'derepente/derepenteautista' },
+  cloud: { project: 'derepente/derepente-astro' },
   locale: 'pt-BR',
   ui: { brand: { name: 'De repente autista' } },
   collections: {
