@@ -4,7 +4,7 @@ date: '2017-03-17'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2017/03/image.jpeg
+image: /images/posts/autistas-tem-direito-acompanhante-em-viagens-aereas/image.jpeg
 description: '[vc_row][vc_column][vc_column_text]SIMMMMM! Pessoas portadoras de transtorno
   do espectro autista (TE'
 comments:

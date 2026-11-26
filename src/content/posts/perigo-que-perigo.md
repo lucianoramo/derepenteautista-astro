@@ -4,7 +4,7 @@ date: '2016-05-13'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/05/image-2.jpg
+image: /images/posts/perigo-que-perigo/image-2.jpg
 description: A maioria das crianças portadoras de TEA ( transtorno do espectro autista)
   não possuem noção de peri
 comments:

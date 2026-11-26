@@ -5,7 +5,7 @@ categories:
 - Blog
 - História
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/image-4.jpg
+image: /images/posts/equipe-multidisciplinar/image-4.jpg
 description: O diagnóstico de TEA (transtorno do espectro autista) não é feito por
   um profissional apenas. Como é
 comments:

@@ -4,7 +4,7 @@ date: '2017-01-08'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image-1.jpg
+image: /images/posts/7-caracteristicas-para-suspeitar-de-autismo/image-1.jpg
 description: A suspeita do diagnóstico de TEA (Transtorno do Espectro Autista) normalmente
   é feita pelos pais ou
 comments:

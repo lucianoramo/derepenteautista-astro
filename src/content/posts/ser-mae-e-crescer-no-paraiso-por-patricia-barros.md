@@ -4,7 +4,7 @@ date: '2016-05-09'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/05/image-1.jpg
+image: /images/posts/ser-mae-e-crescer-no-paraiso-por-patricia-barros/image-1.jpg
 description: Quem já ouviu o velho ditado que “Ser mãe é padecer no Paraiso”? Não
   sei o que você pensa, mas para
 comments:

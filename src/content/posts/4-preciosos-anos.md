@@ -4,7 +4,7 @@ date: '2016-11-08'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/11/image.jpg
+image: /images/posts/4-preciosos-anos/image.jpg
 description: Já disse aqui em outro post
 comments:
 - author: LEONIDIA

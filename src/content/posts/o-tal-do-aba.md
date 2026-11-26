@@ -4,7 +4,7 @@ date: '2016-04-14'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image-4.jpg
+image: /images/posts/o-tal-do-aba/image-4.jpg
 description: ABA significa Applied Behavior Analysis, em português Análise do Comportamento
   Aplicada, é uma linha
 comments:

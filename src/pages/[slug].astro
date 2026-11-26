@@ -1,19 +1,22 @@
 ---
-import { getCollection } from 'astro:content';
-import type { GetStaticPaths } from 'astro';
+import { getCollection, render, type CollectionEntry } from 'astro:content';
 import PostLayout from '../layouts/PostLayout.astro';
 import AudioPlayer from '../components/AudioPlayer.astro';
 
-export const getStaticPaths: GetStaticPaths = async () => {
+export async function getStaticPaths() {
   const posts = await getCollection('posts');
   return posts.map(post => ({
-    params: { slug: post.slug },
+    params: { slug: post.id },
     props: { post },
   }));
-};
+}
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
 
 const { post } = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 <PostLayout
   title={post.data.title}

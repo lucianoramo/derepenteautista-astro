@@ -4,7 +4,7 @@ date: '2016-04-20'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image-5.jpg
+image: /images/posts/ao-mestre-com-carinho/image-5.jpg
 comments:
 - author: Fabi
   date: 20/04/2016 de 07:26

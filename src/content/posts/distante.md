@@ -5,7 +5,7 @@ categories:
 - Blog
 - História
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/luto.jpg
+image: /images/posts/distante/luto.jpg
 description: Oi gente, esse post é uma continuação do post Presente de Deus. Distante,
   cada dia que passava meu f
 comments:

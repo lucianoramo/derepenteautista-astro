@@ -28,7 +28,7 @@ const categorySlugMap: Record<string, string> = {
     <ul class="space-y-3">
       {recentPosts.map(post => (
         <li class="text-sm">
-          <a href={`/${post.slug}`} class="text-dark hover:text-accent transition-colors font-medium leading-tight block">
+          <a href={`/${post.id}`} class="text-dark hover:text-accent transition-colors font-medium leading-tight block">
             {post.data.title}
           </a>
           <span class="text-muted text-xs">

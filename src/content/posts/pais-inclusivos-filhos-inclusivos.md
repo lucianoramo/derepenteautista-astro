@@ -4,7 +4,7 @@ date: '2019-08-13'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2019/08/wheelchair-1629490_1280.jpg
+image: /images/posts/pais-inclusivos-filhos-inclusivos/wheelchair-1629490_1280.jpg
 description: A escola tem, por lei e por ética (ou deveria ter), a obrigação de ser
   inclusiva, mas não é lá que s
 comments:

@@ -1,13 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
-import type { GetStaticPaths } from 'astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Sidebar from '../../../components/Sidebar.astro';
 import PostCard from '../../../components/PostCard.astro';
 
-export const getStaticPaths: GetStaticPaths = async () => {
+export async function getStaticPaths() {
   const POSTS_PER_PAGE = 10;
   const CAT_LABEL: Record<string, string> = {
     'blog': 'Blog',
@@ -38,7 +37,14 @@ export const getStaticPaths: GetStaticPaths = async () => {
   }
 
   return paths;
-};
+}
+
+interface Props {
+  posts: CollectionEntry<'posts'>[];
+  currentPage: number;
+  totalPages: number;
+  catLabel: string;
+}
 
 const { posts, currentPage, totalPages, catLabel } = Astro.props;
 const { cat } = Astro.params;
@@ -55,7 +61,7 @@ const { cat } = Astro.params;
           {posts.map(post => (
             <PostCard
               title={post.data.title}
-              slug={post.slug}
+              slug={post.id}
               date={post.data.date}
               image={post.data.image}
               description={post.data.description}

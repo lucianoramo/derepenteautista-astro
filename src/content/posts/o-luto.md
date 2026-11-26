@@ -5,7 +5,7 @@ categories:
 - Blog
 - História
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/03/image-3.jpg
+image: /images/posts/o-luto/image-3.jpg
 description: Gente, aqui quero falar sobre um assunto extremamente importante, doloroso,
   mas fundamental para os
 comments:

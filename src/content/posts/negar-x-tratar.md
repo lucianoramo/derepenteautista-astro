@@ -4,7 +4,7 @@ date: '2016-04-29'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image-6.jpg
+image: /images/posts/negar-x-tratar/image-6.jpg
 description: Existem duas situações opostas que tenho presenciado relacionado aos
   pais. Uma, e infelizmente em gr
 comments:

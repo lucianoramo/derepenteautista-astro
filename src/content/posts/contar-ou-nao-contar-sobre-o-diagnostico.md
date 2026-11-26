@@ -4,7 +4,7 @@ date: '2016-10-25'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/10/image-2.jpg
+image: /images/posts/contar-ou-nao-contar-sobre-o-diagnostico/image-2.jpg
 description: A criança portadora do transtorno do espectro autista, salvo algumas
   exceções, não possuem caracterí
 comments:

@@ -4,7 +4,7 @@ date: '2017-11-01'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2017/10/image.jpeg
+image: /images/posts/escolas-em-belo-horizonte-e-pseudoinclusao/image.jpeg
 description: Estive fisicamente em 12 (doze)  das escolas mais conceituadas de Belo
   horizonte e conversei ao tele
 comments:

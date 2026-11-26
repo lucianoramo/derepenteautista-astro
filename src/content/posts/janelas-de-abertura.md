@@ -4,7 +4,7 @@ date: '2016-04-12'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/04/image-2.jpg
+image: /images/posts/janelas-de-abertura/image-2.jpg
 description: Chamo de
 comments:
 - author: Leonidia Lopes

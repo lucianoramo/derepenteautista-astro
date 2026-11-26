@@ -4,7 +4,7 @@ date: '2016-08-07'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/08/image.jpg
+image: /images/posts/o-olhar-do-outro/image.jpg
 description: Todos nós temos um poder no olhar. Pessoas se apaixonam depois de um
   simples olhar correspondido, gr
 comments:

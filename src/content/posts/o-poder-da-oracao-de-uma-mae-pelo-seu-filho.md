@@ -4,7 +4,7 @@ date: '2016-05-23'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/05/image-4.jpg
+image: /images/posts/o-poder-da-oracao-de-uma-mae-pelo-seu-filho/image-4.jpg
 description: Converso diariamente com mulheres que me procuram pedindo diferentes
   tipos de ajuda, mães com filhos
 comments:

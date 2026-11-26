@@ -4,7 +4,7 @@ date: '2016-06-02'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/06/image.jpg
+image: /images/posts/cartas-para-enzo/image.jpg
 description: A melhor parte de mim nasceu junto com o Enzo, ali, naquele dia preparado
   por Deus, nos tornamos mãe
 comments:

@@ -4,7 +4,7 @@ date: '2017-08-22'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2017/08/image-4.jpeg
+image: /images/posts/autismo-e-mudancas-de-rotina/image-4.jpeg
 comments:
 - author: Cristina Munck
   date: 22/08/2017 de 09:38

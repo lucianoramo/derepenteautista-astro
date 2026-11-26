@@ -4,7 +4,7 @@ date: '2016-07-24'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/07/image.jpg
+image: /images/posts/as-ferias-de-uma-crianca-autista/image.jpg
 description: Férias, período propício para exercitar a criatividade das mães!!! Período
   onde os dias parecem mais
 comments:

@@ -4,7 +4,7 @@ date: '2016-05-05'
 categories:
 - Dicas úteis
 author: Michelle Carvalho
-image: /wp-content/uploads/2016/05/image.jpg
+image: /images/posts/10-coisas-que-toda-mae-de-crianca-com-autismo-gostaria-que-voce-soubesse/image.jpg
 description: Muitos amigos me pediram dicas de como se comportar diante de um transtorno
   desconhecido por eles, a
 comments:

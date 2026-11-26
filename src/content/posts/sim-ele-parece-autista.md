@@ -4,7 +4,7 @@ date: '2019-07-12'
 categories:
 - Blog
 author: Michelle Carvalho
-image: /wp-content/uploads/2019/07/IMG_20190707_131016487.jpg
+image: /images/posts/sim-ele-parece-autista/IMG_20190707_131016487.jpg
 comments:
 - author: Leonidia
   date: 13/07/2019 de 12:27
